@@ -1,0 +1,5604 @@
+{
+  "source": "Figma Open Icons metadata",
+  "extractedAt": "2026-03-15T11:42:24.369Z",
+  "categories": [
+    {
+      "nodeId": "5649:56457",
+      "name": "Location",
+      "iconCount": 14,
+      "iconTypes": [
+        {
+          "key": "globus",
+          "name": "globus, map, earth, globe",
+          "variantCount": 30
+        },
+        {
+          "key": "earth",
+          "name": "earth, globe, world",
+          "variantCount": 30
+        },
+        {
+          "key": "world",
+          "name": "world, globus, internet, web, globe",
+          "variantCount": 30
+        },
+        {
+          "key": "map-pin",
+          "name": "map-pin, location",
+          "variantCount": 30
+        },
+        {
+          "key": "send",
+          "name": "send, email, paper-plane, arrow",
+          "variantCount": 30
+        },
+        {
+          "key": "map",
+          "name": "map, paper",
+          "variantCount": 30
+        },
+        {
+          "key": "direction-1",
+          "name": "direction-1, route",
+          "variantCount": 30
+        },
+        {
+          "key": "direction-2",
+          "name": "direction-2, route",
+          "variantCount": 30
+        },
+        {
+          "key": "location",
+          "name": "location, explore, compass",
+          "variantCount": 30
+        },
+        {
+          "key": "pin-circle",
+          "name": "pin-circle, location",
+          "variantCount": 30
+        },
+        {
+          "key": "pin-flag",
+          "name": "pin-flag, location",
+          "variantCount": 30
+        },
+        {
+          "key": "pin-location",
+          "name": "pin-location",
+          "variantCount": 30
+        },
+        {
+          "key": "map-pin-flat",
+          "name": "map-pin-flat, route",
+          "variantCount": 30
+        },
+        {
+          "key": "radar",
+          "name": "radar, location, search",
+          "variantCount": 30
+        }
+      ]
+    },
+    {
+      "nodeId": "5657:56856",
+      "name": "Communication",
+      "iconCount": 46,
+      "iconTypes": [
+        {
+          "key": "email-1",
+          "name": "email-1, envelope",
+          "variantCount": 30
+        },
+        {
+          "key": "email-2",
+          "name": "email-2, envelope",
+          "variantCount": 30
+        },
+        {
+          "key": "email-3",
+          "name": "email-3, envelope",
+          "variantCount": 30
+        },
+        {
+          "key": "email-notification",
+          "name": "email-notification, badge, envelope",
+          "variantCount": 30
+        },
+        {
+          "key": "postcard-1",
+          "name": "postcard-1,address",
+          "variantCount": 30
+        },
+        {
+          "key": "postcard-2",
+          "name": "postcard-2, address",
+          "variantCount": 30
+        },
+        {
+          "key": "invite",
+          "name": "invite",
+          "variantCount": 30
+        },
+        {
+          "key": "bubble-2",
+          "name": "bubble-2, message",
+          "variantCount": 30
+        },
+        {
+          "key": "bubble-annotation-2",
+          "name": "bubble-annotation-2, message",
+          "variantCount": 30
+        },
+        {
+          "key": "bubbles",
+          "name": "bubbles, messages, chat, communicate",
+          "variantCount": 30
+        },
+        {
+          "key": "bubble-3",
+          "name": "bubble-3,message",
+          "variantCount": 30
+        },
+        {
+          "key": "bubble-annotation-3",
+          "name": "bubble-annotation-3, message",
+          "variantCount": 30
+        },
+        {
+          "key": "bubble-4",
+          "name": "bubble-4, message",
+          "variantCount": 30
+        },
+        {
+          "key": "bubble-annotation-4",
+          "name": "bubble-annotation-4, message",
+          "variantCount": 30
+        },
+        {
+          "key": "bubble-5",
+          "name": "bubble-5, message",
+          "variantCount": 30
+        },
+        {
+          "key": "bubble-annotation-5",
+          "name": "bubble-annotation-5, message",
+          "variantCount": 30
+        },
+        {
+          "key": "bubble-6",
+          "name": "bubble-6, message",
+          "variantCount": 30
+        },
+        {
+          "key": "bubble-annotation-6",
+          "name": "bubble-annotation-6, message",
+          "variantCount": 30
+        },
+        {
+          "key": "bubble-text-6",
+          "name": "bubble-text-6, message",
+          "variantCount": 30
+        },
+        {
+          "key": "bubble-wide",
+          "name": "bubble-wide, message",
+          "variantCount": 30
+        },
+        {
+          "key": "bubble-quotes",
+          "name": "bubble-quotes",
+          "variantCount": 30
+        },
+        {
+          "key": "bubble-wide-notification",
+          "name": "bubble-wide-notification, badge, message",
+          "variantCount": 30
+        },
+        {
+          "key": "bubble-wide-annotation",
+          "name": "bubble-wide-annotation, message",
+          "variantCount": 30
+        },
+        {
+          "key": "bubble-check",
+          "name": "bubble-check",
+          "variantCount": 30
+        },
+        {
+          "key": "bubble-text",
+          "name": "bubble-text",
+          "variantCount": 30
+        },
+        {
+          "key": "bubble-heart",
+          "name": "bubble-heart",
+          "variantCount": 30
+        },
+        {
+          "key": "bubble-dots",
+          "name": "bubble-dots",
+          "variantCount": 30
+        },
+        {
+          "key": "bubble-crossed",
+          "name": "bubble-crossed",
+          "variantCount": 30
+        },
+        {
+          "key": "bubble-plus",
+          "name": "bubble-plus",
+          "variantCount": 30
+        },
+        {
+          "key": "bubble-sparkle",
+          "name": "bubble-sparkle",
+          "variantCount": 30
+        },
+        {
+          "key": "bubble-question",
+          "name": "bubble-question",
+          "variantCount": 30
+        },
+        {
+          "key": "bubble-alert",
+          "name": "bubble-alert",
+          "variantCount": 30
+        },
+        {
+          "key": "bubble-info",
+          "name": "bubble-info",
+          "variantCount": 30
+        },
+        {
+          "key": "paper-plane",
+          "name": "paper-plane, send",
+          "variantCount": 31
+        },
+        {
+          "key": "paper-plane-top-right",
+          "name": "paper-plane-top-right, send",
+          "variantCount": 30
+        },
+        {
+          "key": "call",
+          "name": "call",
+          "variantCount": 31
+        },
+        {
+          "key": "call-cancel",
+          "name": "call-cancel",
+          "variantCount": 30
+        },
+        {
+          "key": "call-outgoing",
+          "name": "call-outgoing",
+          "variantCount": 30
+        },
+        {
+          "key": "call-incoming",
+          "name": "call-incoming",
+          "variantCount": 30
+        },
+        {
+          "key": "telephone",
+          "name": "telephone, phone, contact",
+          "variantCount": 30
+        },
+        {
+          "key": "voice-and-video",
+          "name": "voice-and-video, media",
+          "variantCount": 30
+        },
+        {
+          "key": "book",
+          "name": "book, guide, info, faq",
+          "variantCount": 30
+        },
+        {
+          "key": "newspaper",
+          "name": "newspaper, News, paper",
+          "variantCount": 30
+        },
+        {
+          "key": "newspaper-1",
+          "name": "newspaper-1, guide, info, faq",
+          "variantCount": 30
+        },
+        {
+          "key": "newspaper-2",
+          "name": "newspaper-2, guide, info, faq",
+          "variantCount": 30
+        },
+        {
+          "key": "newspaper-3",
+          "name": "newspaper-3",
+          "variantCount": 30
+        }
+      ]
+    },
+    {
+      "nodeId": "6869:60798",
+      "name": "Hands",
+      "iconCount": 17,
+      "iconTypes": [
+        {
+          "key": "thumbs-up",
+          "name": "thumbs-up, thumb, hand, yes, pro",
+          "variantCount": 30
+        },
+        {
+          "key": "thumbs-down",
+          "name": "thumbs-down, thumb, hand, no, contra",
+          "variantCount": 30
+        },
+        {
+          "key": "thumb-up-curved",
+          "name": "thumb-up-curved",
+          "variantCount": 30
+        },
+        {
+          "key": "thumb-down-curved",
+          "name": "thumb-down-curved",
+          "variantCount": 30
+        },
+        {
+          "key": "raising-hand-4-finger",
+          "name": "raising-hand-4-finger, hey, hello",
+          "variantCount": 30
+        },
+        {
+          "key": "hand-4-finger",
+          "name": "hand-4-finger, select",
+          "variantCount": 30
+        },
+        {
+          "key": "flick",
+          "name": "flick,snip,snap,easy",
+          "variantCount": 30
+        },
+        {
+          "key": "raising-hand-5-finger",
+          "name": "raising-hand-5-finger, hey, hello, high-five",
+          "variantCount": 30
+        },
+        {
+          "key": "hand-5-finger",
+          "name": "hand-5-finger, select",
+          "variantCount": 30
+        },
+        {
+          "key": "pointer",
+          "name": "pointer, hand",
+          "variantCount": 30
+        },
+        {
+          "key": "pinch",
+          "name": "pinch",
+          "variantCount": 30
+        },
+        {
+          "key": "shaka-1",
+          "name": "shaka-1, call me, hang-ten",
+          "variantCount": 30
+        },
+        {
+          "key": "shaka-2",
+          "name": "shaka-2, call me, hang-ten",
+          "variantCount": 30
+        },
+        {
+          "key": "touch",
+          "name": "touch, tab, click",
+          "variantCount": 30
+        },
+        {
+          "key": "fistbump",
+          "name": "fistbump, boom, hands, friends",
+          "variantCount": 30
+        },
+        {
+          "key": "magic-hands",
+          "name": "magic-hands, rainbow-hands",
+          "variantCount": 30
+        },
+        {
+          "key": "money-hand",
+          "name": "money-hand, coins",
+          "variantCount": 30
+        }
+      ]
+    },
+    {
+      "nodeId": "6504:53037",
+      "name": "Building",
+      "iconCount": 17,
+      "iconTypes": [
+        {
+          "key": "home-round-door",
+          "name": "home-round-door",
+          "variantCount": 30
+        },
+        {
+          "key": "home",
+          "name": "home, house",
+          "variantCount": 30
+        },
+        {
+          "key": "home-line",
+          "name": "home-line",
+          "variantCount": 30
+        },
+        {
+          "key": "home-circle",
+          "name": "home-circle",
+          "variantCount": 30
+        },
+        {
+          "key": "home-roof",
+          "name": "home-roof, house",
+          "variantCount": 30
+        },
+        {
+          "key": "home-door",
+          "name": "home-door, house",
+          "variantCount": 30
+        },
+        {
+          "key": "home-open",
+          "name": "home-open, house",
+          "variantCount": 30
+        },
+        {
+          "key": "court",
+          "name": "court",
+          "variantCount": 30
+        },
+        {
+          "key": "bank",
+          "name": "bank",
+          "variantCount": 30
+        },
+        {
+          "key": "buildings",
+          "name": "buildings, company, workspace",
+          "variantCount": 30
+        },
+        {
+          "key": "block",
+          "name": "block, workspace",
+          "variantCount": 30
+        },
+        {
+          "key": "garage",
+          "name": "garage",
+          "variantCount": 30
+        },
+        {
+          "key": "store-1",
+          "name": "store-1, shop, business",
+          "variantCount": 30
+        },
+        {
+          "key": "store-2",
+          "name": "store-2, shop, business",
+          "variantCount": 30
+        },
+        {
+          "key": "store-3",
+          "name": "store-3, shop, business",
+          "variantCount": 30
+        },
+        {
+          "key": "store-4",
+          "name": "store-4, shop, business",
+          "variantCount": 30
+        },
+        {
+          "key": "school",
+          "name": "school, building",
+          "variantCount": 30
+        }
+      ]
+    },
+    {
+      "nodeId": "5588:52380",
+      "name": "Devices & Signals",
+      "iconCount": 55,
+      "iconTypes": [
+        {
+          "key": "phone",
+          "name": "phone, iphone, mobile",
+          "variantCount": 30
+        },
+        {
+          "key": "phone-dynamic-island",
+          "name": "phone-dynamic-island",
+          "variantCount": 30
+        },
+        {
+          "key": "old-phone",
+          "name": "old-phone",
+          "variantCount": 30
+        },
+        {
+          "key": "macbook",
+          "name": "macbook, laptop, computer",
+          "variantCount": 30
+        },
+        {
+          "key": "macbook-air",
+          "name": "macbook-air",
+          "variantCount": 30
+        },
+        {
+          "key": "macinthosh",
+          "name": "macinthosh, mac",
+          "variantCount": 30
+        },
+        {
+          "key": "mouse",
+          "name": "mouse",
+          "variantCount": 30
+        },
+        {
+          "key": "mouse-scroll-down",
+          "name": "mouse-scroll-down",
+          "variantCount": 30
+        },
+        {
+          "key": "mouse-scroll-up",
+          "name": "mouse-scroll-up",
+          "variantCount": 30
+        },
+        {
+          "key": "calculator",
+          "name": "calculator",
+          "variantCount": 30
+        },
+        {
+          "key": "imac",
+          "name": "imac, computer",
+          "variantCount": 30
+        },
+        {
+          "key": "studio-display",
+          "name": "studio-display, thunderbolt",
+          "variantCount": 30
+        },
+        {
+          "key": "webcam",
+          "name": "webcam, camera, view",
+          "variantCount": 30
+        },
+        {
+          "key": "usb",
+          "name": "usb, connection, connect, save, data",
+          "variantCount": 30
+        },
+        {
+          "key": "usb-c",
+          "name": "usb-c, type-c",
+          "variantCount": 30
+        },
+        {
+          "key": "chip",
+          "name": "chip, esim",
+          "variantCount": 30
+        },
+        {
+          "key": "television",
+          "name": "television, tv, monitor, video, screen, display",
+          "variantCount": 30
+        },
+        {
+          "key": "television-old",
+          "name": "television-old, tv, monitor, video, screen, display",
+          "variantCount": 30
+        },
+        {
+          "key": "devices",
+          "name": "devices, macbook, iphone, phone, connected",
+          "variantCount": 30
+        },
+        {
+          "key": "airpod-case",
+          "name": "airpod-case, airpods",
+          "variantCount": 30
+        },
+        {
+          "key": "processor",
+          "name": "processor, chip",
+          "variantCount": 30
+        },
+        {
+          "key": "server-1",
+          "name": "server-1, storage, data, coins, money",
+          "variantCount": 30
+        },
+        {
+          "key": "server-2",
+          "name": "server-2, storage, data, coins, money",
+          "variantCount": 30
+        },
+        {
+          "key": "smartwatch-1",
+          "name": "smartwatch-1, clock, time",
+          "variantCount": 30
+        },
+        {
+          "key": "smartwatch-2",
+          "name": "smartwatch-2, clock, time",
+          "variantCount": 30
+        },
+        {
+          "key": "keyboard-down",
+          "name": "keyboard-down",
+          "variantCount": 30
+        },
+        {
+          "key": "keyboard-up",
+          "name": "keyboard-up",
+          "variantCount": 30
+        },
+        {
+          "key": "keyboard-cable",
+          "name": "keyboard-cable",
+          "variantCount": 30
+        },
+        {
+          "key": "storage",
+          "name": "storage, hdd, ssd",
+          "variantCount": 30
+        },
+        {
+          "key": "printer",
+          "name": "printer, print",
+          "variantCount": 30
+        },
+        {
+          "key": "circle-record",
+          "name": "circle-record, voicemail, band, tape",
+          "variantCount": 30
+        },
+        {
+          "key": "tape",
+          "name": "tape",
+          "variantCount": 30
+        },
+        {
+          "key": "speaker",
+          "name": "speaker, music, sound",
+          "variantCount": 30
+        },
+        {
+          "key": "chromecast",
+          "name": "chromecast, cast",
+          "variantCount": 30
+        },
+        {
+          "key": "bluetooth",
+          "name": "bluetooth",
+          "variantCount": 30
+        },
+        {
+          "key": "satellite",
+          "name": "satellite, radar, feed",
+          "variantCount": 30
+        },
+        {
+          "key": "wifi-square",
+          "name": "wifi-square, spot, signal, hot spot",
+          "variantCount": 30
+        },
+        {
+          "key": "wifi-full",
+          "name": "wifi-full, spot, signal, hot spot",
+          "variantCount": 30
+        },
+        {
+          "key": "wifi-weak",
+          "name": "wifi-weak, spot, signal, hot spot",
+          "variantCount": 30
+        },
+        {
+          "key": "wifi-no-signal",
+          "name": "wifi-no-signal, spot, signal, hot spot",
+          "variantCount": 30
+        },
+        {
+          "key": "nfc-1",
+          "name": "nfc-1",
+          "variantCount": 30
+        },
+        {
+          "key": "nfc-2",
+          "name": "nfc-2",
+          "variantCount": 30
+        },
+        {
+          "key": "live-full",
+          "name": "live-full, signal",
+          "variantCount": 30
+        },
+        {
+          "key": "live-weak",
+          "name": "live-weak, signal",
+          "variantCount": 30
+        },
+        {
+          "key": "live-no-signal",
+          "name": "live-no-signal, signal",
+          "variantCount": 30
+        },
+        {
+          "key": "haptic",
+          "name": "haptic, waves",
+          "variantCount": 30
+        },
+        {
+          "key": "phone-haptic",
+          "name": "phone-haptic, vibration",
+          "variantCount": 30
+        },
+        {
+          "key": "airplay",
+          "name": "airplay",
+          "variantCount": 30
+        },
+        {
+          "key": "fullscreen",
+          "name": "fullscreen",
+          "variantCount": 30
+        },
+        {
+          "key": "battery-full",
+          "name": "battery-full, power",
+          "variantCount": 30
+        },
+        {
+          "key": "battery-medium",
+          "name": "battery-medium, power",
+          "variantCount": 30
+        },
+        {
+          "key": "battery-low",
+          "name": "battery-low, power",
+          "variantCount": 30
+        },
+        {
+          "key": "battery-empty",
+          "name": "battery-empty, power",
+          "variantCount": 30
+        },
+        {
+          "key": "battery-error",
+          "name": "battery-error, power",
+          "variantCount": 30
+        },
+        {
+          "key": "battery-loading",
+          "name": "battery-loading, power",
+          "variantCount": 30
+        }
+      ]
+    },
+    {
+      "nodeId": "5620:55722",
+      "name": "Folders & Files",
+      "iconCount": 62,
+      "iconTypes": [
+        {
+          "key": "folder-1",
+          "name": "folder-1",
+          "variantCount": 30
+        },
+        {
+          "key": "folder-2",
+          "name": "folder-2",
+          "variantCount": 30
+        },
+        {
+          "key": "folders",
+          "name": "folders",
+          "variantCount": 30
+        },
+        {
+          "key": "folder-add-right",
+          "name": "folder-add-right",
+          "variantCount": 30
+        },
+        {
+          "key": "folder-add-left",
+          "name": "folder-add-left",
+          "variantCount": 30
+        },
+        {
+          "key": "folder-delete",
+          "name": "folder-delete",
+          "variantCount": 30
+        },
+        {
+          "key": "folder-bookmarks",
+          "name": "folder-bookmarks",
+          "variantCount": 30
+        },
+        {
+          "key": "folder-restricted",
+          "name": "folder-restricted",
+          "variantCount": 30
+        },
+        {
+          "key": "folder-cloud",
+          "name": "folder-cloud",
+          "variantCount": 30
+        },
+        {
+          "key": "folder-link",
+          "name": "folder-link",
+          "variantCount": 30
+        },
+        {
+          "key": "folder-shared",
+          "name": "folder-shared",
+          "variantCount": 30
+        },
+        {
+          "key": "folder-upload",
+          "name": "folder-upload",
+          "variantCount": 30
+        },
+        {
+          "key": "folder-download",
+          "name": "folder-download",
+          "variantCount": 30
+        },
+        {
+          "key": "folder-open",
+          "name": "folder-open",
+          "variantCount": 30
+        },
+        {
+          "key": "archive",
+          "name": "archive, folder, box",
+          "variantCount": 30
+        },
+        {
+          "key": "floppy-disk-1",
+          "name": "floppy-disk-1, save",
+          "variantCount": 30
+        },
+        {
+          "key": "floppy-disk-2",
+          "name": "floppy-disk-2, save",
+          "variantCount": 30
+        },
+        {
+          "key": "server",
+          "name": "server, data, storage",
+          "variantCount": 30
+        },
+        {
+          "key": "sd-card",
+          "name": "sd-card, memory-stick",
+          "variantCount": 30
+        },
+        {
+          "key": "sim-card-1",
+          "name": "sim-card-1",
+          "variantCount": 30
+        },
+        {
+          "key": "sim-card-2",
+          "name": "sim-card-2",
+          "variantCount": 30
+        },
+        {
+          "key": "files",
+          "name": "files, documents",
+          "variantCount": 30
+        },
+        {
+          "key": "file-bend",
+          "name": "file-bend, document",
+          "variantCount": 30
+        },
+        {
+          "key": "file-cloud",
+          "name": "file-cloud, document",
+          "variantCount": 30
+        },
+        {
+          "key": "file-chart",
+          "name": "file-chart, document",
+          "variantCount": 30
+        },
+        {
+          "key": "file-download",
+          "name": "file-download, document",
+          "variantCount": 30
+        },
+        {
+          "key": "file-text",
+          "name": "file-text, document",
+          "variantCount": 30
+        },
+        {
+          "key": "file-lock",
+          "name": "file-lock, document",
+          "variantCount": 30
+        },
+        {
+          "key": "file-link",
+          "name": "file-link, hyperlink",
+          "variantCount": 30
+        },
+        {
+          "key": "page-empty",
+          "name": "page-empty",
+          "variantCount": 30
+        },
+        {
+          "key": "page-text",
+          "name": "page-text",
+          "variantCount": 30
+        },
+        {
+          "key": "page-search-lines",
+          "name": "page-search-lines",
+          "variantCount": 30
+        },
+        {
+          "key": "page-attachment",
+          "name": "page-attachment",
+          "variantCount": 30
+        },
+        {
+          "key": "page-search",
+          "name": "page-search",
+          "variantCount": 30
+        },
+        {
+          "key": "page-text-search",
+          "name": "page-text-search",
+          "variantCount": 30
+        },
+        {
+          "key": "page-pie-chart",
+          "name": "page-pie-chart",
+          "variantCount": 30
+        },
+        {
+          "key": "page-text-pie-chart",
+          "name": "page-text-pie-chart",
+          "variantCount": 30
+        },
+        {
+          "key": "page-lock",
+          "name": "page-lock",
+          "variantCount": 30
+        },
+        {
+          "key": "page-text-lock",
+          "name": "page-text-lock",
+          "variantCount": 30
+        },
+        {
+          "key": "page-cloud",
+          "name": "page-cloud",
+          "variantCount": 30
+        },
+        {
+          "key": "page-text-cloud",
+          "name": "page-text-cloud",
+          "variantCount": 30
+        },
+        {
+          "key": "page-link",
+          "name": "page-link",
+          "variantCount": 30
+        },
+        {
+          "key": "page-text-link",
+          "name": "page-text-link",
+          "variantCount": 30
+        },
+        {
+          "key": "page-add",
+          "name": "page-add",
+          "variantCount": 30
+        },
+        {
+          "key": "page-text-add",
+          "name": "page-text-add",
+          "variantCount": 30
+        },
+        {
+          "key": "notebook",
+          "name": "notebook, cover",
+          "variantCount": 30
+        },
+        {
+          "key": "sketchbook",
+          "name": "sketchbook",
+          "variantCount": 30
+        },
+        {
+          "key": "notes",
+          "name": "notes",
+          "variantCount": 30
+        },
+        {
+          "key": "library",
+          "name": "library",
+          "variantCount": 30
+        },
+        {
+          "key": "dossier",
+          "name": "dossier",
+          "variantCount": 30
+        },
+        {
+          "key": "folder-paper",
+          "name": "folder-paper",
+          "variantCount": 30
+        },
+        {
+          "key": "finder",
+          "name": "finder, files, os",
+          "variantCount": 30
+        },
+        {
+          "key": "zip",
+          "name": "zip, rar, compressed, archive",
+          "variantCount": 30
+        },
+        {
+          "key": "file-zip",
+          "name": "file-zip",
+          "variantCount": 30
+        },
+        {
+          "key": "table",
+          "name": "table, spreedsheet, chart",
+          "variantCount": 30
+        },
+        {
+          "key": "note-text",
+          "name": "note-text",
+          "variantCount": 30
+        },
+        {
+          "key": "note-1",
+          "name": "note-1",
+          "variantCount": 30
+        },
+        {
+          "key": "note-2",
+          "name": "note-2",
+          "variantCount": 30
+        },
+        {
+          "key": "blank-page-portrait",
+          "name": "blank-page-portrait",
+          "variantCount": 30
+        },
+        {
+          "key": "blank-page-landscape",
+          "name": "blank-page-landscape",
+          "variantCount": 30
+        },
+        {
+          "key": "list-bullets",
+          "name": "list-bullets",
+          "variantCount": 30
+        },
+        {
+          "key": "notepad",
+          "name": "notepad,notes",
+          "variantCount": 30
+        }
+      ]
+    },
+    {
+      "nodeId": "6820:65489",
+      "name": "Nature & Energy",
+      "iconCount": 16,
+      "iconTypes": [
+        {
+          "key": "exposure",
+          "name": "exposure, macro, flower",
+          "variantCount": 30
+        },
+        {
+          "key": "growth",
+          "name": "growth, grow, leafs",
+          "variantCount": 30
+        },
+        {
+          "key": "tree",
+          "name": "tree",
+          "variantCount": 30
+        },
+        {
+          "key": "rainbow",
+          "name": "rainbow",
+          "variantCount": 30
+        },
+        {
+          "key": "solar",
+          "name": "solar",
+          "variantCount": 30
+        },
+        {
+          "key": "solar-panel",
+          "name": "solar-panel, Photovoltaics, energy, electricity",
+          "variantCount": 30
+        },
+        {
+          "key": "green-power",
+          "name": "green-power, green-energy",
+          "variantCount": 30
+        },
+        {
+          "key": "atom",
+          "name": "atom",
+          "variantCount": 30
+        },
+        {
+          "key": "pumpjack",
+          "name": "pumpjack, oil",
+          "variantCount": 30
+        },
+        {
+          "key": "nuclear-power-plant",
+          "name": "nuclear-power-plant, radiation",
+          "variantCount": 30
+        },
+        {
+          "key": "home-energy",
+          "name": "home-energy, electric current, power",
+          "variantCount": 30
+        },
+        {
+          "key": "home-energy-2",
+          "name": "home-energy-2, electric-current, power",
+          "variantCount": 30
+        },
+        {
+          "key": "charging-station",
+          "name": "charging-station, electric-current, power, e-charge",
+          "variantCount": 30
+        },
+        {
+          "key": "drilling-rig",
+          "name": "drilling-rig, oil, gas",
+          "variantCount": 30
+        },
+        {
+          "key": "power-plant",
+          "name": "power-plant, coal, gas, factory",
+          "variantCount": 30
+        },
+        {
+          "key": "wind-power",
+          "name": "wind-power, electric-current, power, green-energy",
+          "variantCount": 30
+        }
+      ]
+    },
+    {
+      "nodeId": "5603:61453",
+      "name": "Photography & Video",
+      "iconCount": 64,
+      "iconTypes": [
+        {
+          "key": "camera-1",
+          "name": "camera-1, picture, image, cam",
+          "variantCount": 30
+        },
+        {
+          "key": "camera-off-1",
+          "name": "camera-off-1, cam-off",
+          "variantCount": 30
+        },
+        {
+          "key": "camera-off",
+          "name": "camera-off",
+          "variantCount": 30
+        },
+        {
+          "key": "camera-auto",
+          "name": "camera-auto",
+          "variantCount": 30
+        },
+        {
+          "key": "camera-2",
+          "name": "camera-2, picture, image, cam",
+          "variantCount": 30
+        },
+        {
+          "key": "camera-3",
+          "name": "camera-3, picture, image, cam",
+          "variantCount": 30
+        },
+        {
+          "key": "camera-4",
+          "name": "camera-4",
+          "variantCount": 30
+        },
+        {
+          "key": "zap",
+          "name": "zap, lightning, flash, thunder",
+          "variantCount": 30
+        },
+        {
+          "key": "no-flash",
+          "name": "no-flash",
+          "variantCount": 30
+        },
+        {
+          "key": "auto-flash",
+          "name": "auto-flash",
+          "variantCount": 30
+        },
+        {
+          "key": "camera-5",
+          "name": "camera-5, action cam, GoPro",
+          "variantCount": 30
+        },
+        {
+          "key": "focus",
+          "name": "focus",
+          "variantCount": 30
+        },
+        {
+          "key": "capture",
+          "name": "capture, screen",
+          "variantCount": 30
+        },
+        {
+          "key": "focus-exposure",
+          "name": "focus-exposure",
+          "variantCount": 30
+        },
+        {
+          "key": "focus-square",
+          "name": "focus-square",
+          "variantCount": 30
+        },
+        {
+          "key": "focus-auto",
+          "name": "focus-auto",
+          "variantCount": 30
+        },
+        {
+          "key": "focus-zoom-out",
+          "name": "focus-zoom-out",
+          "variantCount": 30
+        },
+        {
+          "key": "focus-zoom-in",
+          "name": "focus-zoom-in",
+          "variantCount": 30
+        },
+        {
+          "key": "focus-flash",
+          "name": "focus-flash",
+          "variantCount": 30
+        },
+        {
+          "key": "focus-lock",
+          "name": "focus-lock",
+          "variantCount": 30
+        },
+        {
+          "key": "focus-remove",
+          "name": "focus-remove",
+          "variantCount": 30
+        },
+        {
+          "key": "focus-macro",
+          "name": "focus-macro",
+          "variantCount": 30
+        },
+        {
+          "key": "focus-magic",
+          "name": "focus-magic",
+          "variantCount": 30
+        },
+        {
+          "key": "focus-renew",
+          "name": "focus-renew",
+          "variantCount": 30
+        },
+        {
+          "key": "unblur",
+          "name": "unblur",
+          "variantCount": 30
+        },
+        {
+          "key": "blur",
+          "name": "blur",
+          "variantCount": 30
+        },
+        {
+          "key": "rear",
+          "name": "rear, front-back, change-cam, lens",
+          "variantCount": 30
+        },
+        {
+          "key": "images-1",
+          "name": "images-1, photos, pictures, shot",
+          "variantCount": 30
+        },
+        {
+          "key": "images-2",
+          "name": "images-2, photos, pictures, shot",
+          "variantCount": 30
+        },
+        {
+          "key": "images-3",
+          "name": "images-3, photos, pictures, shot",
+          "variantCount": 30
+        },
+        {
+          "key": "images-4",
+          "name": "images-4, photos, pictures, shot",
+          "variantCount": 30
+        },
+        {
+          "key": "images-5",
+          "name": "images-5, photos, pictures, shot",
+          "variantCount": 30
+        },
+        {
+          "key": "images-circle",
+          "name": "images-circle",
+          "variantCount": 30
+        },
+        {
+          "key": "wallpaper",
+          "name": "wallpaper, os",
+          "variantCount": 30
+        },
+        {
+          "key": "cat",
+          "name": "cat, image, animal, cute",
+          "variantCount": 30
+        },
+        {
+          "key": "aspect-ratio-1-1",
+          "name": "aspect-ratio-1-1, square",
+          "variantCount": 30
+        },
+        {
+          "key": "aspect-ratio-4-3",
+          "name": "aspect-ratio-4-3, landscape",
+          "variantCount": 30
+        },
+        {
+          "key": "aspect-ratio-16-9",
+          "name": "aspect-ratio-16-9, landscape",
+          "variantCount": 30
+        },
+        {
+          "key": "aspect-ratio-21-9",
+          "name": "aspect-ratio-21-9, wide, landscape",
+          "variantCount": 30
+        },
+        {
+          "key": "aspect-ratio-3-4",
+          "name": "aspect-ratio-3-4, portrait",
+          "variantCount": 30
+        },
+        {
+          "key": "video",
+          "name": "video, camera, movie, play",
+          "variantCount": 30
+        },
+        {
+          "key": "video-off",
+          "name": "video-off, cam-off",
+          "variantCount": 30
+        },
+        {
+          "key": "video-on",
+          "name": "video-on, cam-on",
+          "variantCount": 30
+        },
+        {
+          "key": "screen-capture",
+          "name": "screen-capture, recording",
+          "variantCount": 30
+        },
+        {
+          "key": "clapperboard",
+          "name": "clapperboard",
+          "variantCount": 30
+        },
+        {
+          "key": "video-clip",
+          "name": "video-clip, film, movie",
+          "variantCount": 30
+        },
+        {
+          "key": "video-roll",
+          "name": "video-roll, movie",
+          "variantCount": 30
+        },
+        {
+          "key": "multi-media",
+          "name": "multi-media, media, image-video",
+          "variantCount": 30
+        },
+        {
+          "key": "videos",
+          "name": "videos,video-playlist",
+          "variantCount": 30
+        },
+        {
+          "key": "video-timeline",
+          "name": "video-timeline, edit-video",
+          "variantCount": 30
+        },
+        {
+          "key": "video-trim",
+          "name": "video-trim",
+          "variantCount": 30
+        },
+        {
+          "key": "split",
+          "name": "split",
+          "variantCount": 30
+        },
+        {
+          "key": "auto-size",
+          "name": "auto-size, automatic-size, page",
+          "variantCount": 30
+        },
+        {
+          "key": "crop",
+          "name": "crop",
+          "variantCount": 30
+        },
+        {
+          "key": "gif",
+          "name": "gif",
+          "variantCount": 30
+        },
+        {
+          "key": "gif-square",
+          "name": "gif-square",
+          "variantCount": 30
+        },
+        {
+          "key": "closed-captioning",
+          "name": "closed-captioning, cc",
+          "variantCount": 30
+        },
+        {
+          "key": "4k",
+          "name": "4k",
+          "variantCount": 30
+        },
+        {
+          "key": "hd",
+          "name": "hd",
+          "variantCount": 30
+        },
+        {
+          "key": "alt",
+          "name": "alt",
+          "variantCount": 30
+        },
+        {
+          "key": "share-screen",
+          "name": "share-screen, screen-sharing",
+          "variantCount": 30
+        },
+        {
+          "key": "picture-in-picture",
+          "name": "picture-in-picture",
+          "variantCount": 30
+        },
+        {
+          "key": "expand",
+          "name": "expand, window, layout",
+          "variantCount": 30
+        },
+        {
+          "key": "minimize",
+          "name": "minimize, window, layout",
+          "variantCount": 30
+        }
+      ]
+    },
+    {
+      "nodeId": "5728:60154",
+      "name": "Statistics & Charts",
+      "iconCount": 21,
+      "iconTypes": [
+        {
+          "key": "chart-1",
+          "name": "chart-1, statistics, flipchart, presentation, graph 2",
+          "variantCount": 30
+        },
+        {
+          "key": "chart-2",
+          "name": "chart-2, statistics, flipchart, presentation, graph",
+          "variantCount": 30
+        },
+        {
+          "key": "whiteboard-1",
+          "name": "whiteboard-1, artboard",
+          "variantCount": 30
+        },
+        {
+          "key": "whiteboard-2",
+          "name": "whiteboard-2",
+          "variantCount": 30
+        },
+        {
+          "key": "analytics",
+          "name": "analytics, analysis",
+          "variantCount": 30
+        },
+        {
+          "key": "pie-chart-1",
+          "name": "pie-chart-1, graph, chart, statistics",
+          "variantCount": 30
+        },
+        {
+          "key": "pie-chart-2",
+          "name": "pie-chart-2, graph, chart, statistics",
+          "variantCount": 30
+        },
+        {
+          "key": "trending-1",
+          "name": "trending-1, trends",
+          "variantCount": 30
+        },
+        {
+          "key": "trending-2",
+          "name": "trending-2, trends",
+          "variantCount": 30
+        },
+        {
+          "key": "trending-3",
+          "name": "trending-3, trends",
+          "variantCount": 30
+        },
+        {
+          "key": "trending-4",
+          "name": "trending-4, chart",
+          "variantCount": 30
+        },
+        {
+          "key": "trending-5",
+          "name": "trending-5, chart, analytics",
+          "variantCount": 30
+        },
+        {
+          "key": "chart-3",
+          "name": "chart-3, statistics, graph, signal",
+          "variantCount": 30
+        },
+        {
+          "key": "chart-4",
+          "name": "chart-4, statistics, graph",
+          "variantCount": 30
+        },
+        {
+          "key": "chart-5",
+          "name": "chart-5, statistics, graph",
+          "variantCount": 30
+        },
+        {
+          "key": "chart-6",
+          "name": "chart-6, statistics, graph",
+          "variantCount": 30
+        },
+        {
+          "key": "chart-7",
+          "name": "chart-7, statistics, graph",
+          "variantCount": 30
+        },
+        {
+          "key": "line-chart-1",
+          "name": "line-chart-1, statistics, graph",
+          "variantCount": 30
+        },
+        {
+          "key": "line-chart-2",
+          "name": "line-chart-2, statistics, graph",
+          "variantCount": 30
+        },
+        {
+          "key": "line-chart-3",
+          "name": "line-chart-3, statistics, graph",
+          "variantCount": 30
+        },
+        {
+          "key": "line-chart-4",
+          "name": "line-chart-4, statistics, graph",
+          "variantCount": 30
+        }
+      ]
+    },
+    {
+      "nodeId": "5656:56409",
+      "name": "Typography",
+      "iconCount": 34,
+      "iconTypes": [
+        {
+          "key": "alignment-center",
+          "name": "alignment-center",
+          "variantCount": 30
+        },
+        {
+          "key": "alignment-left",
+          "name": "alignment-left",
+          "variantCount": 30
+        },
+        {
+          "key": "alignment-right",
+          "name": "alignment-right",
+          "variantCount": 30
+        },
+        {
+          "key": "alignment-justify",
+          "name": "alignment-justify",
+          "variantCount": 30
+        },
+        {
+          "key": "divider",
+          "name": "divider, add-line",
+          "variantCount": 30
+        },
+        {
+          "key": "alignment-left-bar",
+          "name": "alignment-left-bar",
+          "variantCount": 30
+        },
+        {
+          "key": "bold",
+          "name": "bold",
+          "variantCount": 30
+        },
+        {
+          "key": "italic",
+          "name": "italic",
+          "variantCount": 30
+        },
+        {
+          "key": "strike-through",
+          "name": "strike-through",
+          "variantCount": 30
+        },
+        {
+          "key": "underline",
+          "name": "underline",
+          "variantCount": 30
+        },
+        {
+          "key": "remove-textstyle",
+          "name": "remove-textstyle",
+          "variantCount": 30
+        },
+        {
+          "key": "bullet-list",
+          "name": "bullet-list",
+          "variantCount": 30
+        },
+        {
+          "key": "numbered-list",
+          "name": "numbered-list",
+          "variantCount": 30
+        },
+        {
+          "key": "text-block",
+          "name": "text-block",
+          "variantCount": 30
+        },
+        {
+          "key": "write",
+          "name": "write, edit-list, list",
+          "variantCount": 30
+        },
+        {
+          "key": "text-indent-left",
+          "name": "text-indent-left",
+          "variantCount": 30
+        },
+        {
+          "key": "text-indent-right",
+          "name": "text-indent-right",
+          "variantCount": 30
+        },
+        {
+          "key": "text-size",
+          "name": "text-size",
+          "variantCount": 30
+        },
+        {
+          "key": "text-1",
+          "name": "text-1",
+          "variantCount": 30
+        },
+        {
+          "key": "text-2",
+          "name": "text-2",
+          "variantCount": 30
+        },
+        {
+          "key": "text-indicator",
+          "name": "text-indicator",
+          "variantCount": 30
+        },
+        {
+          "key": "paragraph",
+          "name": "paragraph",
+          "variantCount": 30
+        },
+        {
+          "key": "title-case",
+          "name": "title-case",
+          "variantCount": 30
+        },
+        {
+          "key": "headline",
+          "name": "headline, heading",
+          "variantCount": 30
+        },
+        {
+          "key": "h1",
+          "name": "h1, heading, headline",
+          "variantCount": 30
+        },
+        {
+          "key": "h2",
+          "name": "h2, heading, headline",
+          "variantCount": 30
+        },
+        {
+          "key": "h3",
+          "name": "h3, heading, headline",
+          "variantCount": 30
+        },
+        {
+          "key": "insert-html",
+          "name": "insert-html,code, brackets",
+          "variantCount": 30
+        },
+        {
+          "key": "linebreak",
+          "name": "linebreak,next-line",
+          "variantCount": 30
+        },
+        {
+          "key": "translate",
+          "name": "translate,language",
+          "variantCount": 30
+        },
+        {
+          "key": "open-quote-1",
+          "name": "open-quote-1,blockquote",
+          "variantCount": 30
+        },
+        {
+          "key": "close-quote-1",
+          "name": "close-quote-1, blockquote",
+          "variantCount": 30
+        },
+        {
+          "key": "open-quote-2",
+          "name": "open-quote-2, blockquote",
+          "variantCount": 30
+        },
+        {
+          "key": "close-quote-2",
+          "name": "close-quote-2, blockquote",
+          "variantCount": 30
+        }
+      ]
+    },
+    {
+      "nodeId": "5735:60538",
+      "name": "Crypto",
+      "iconCount": 15,
+      "iconTypes": [
+        {
+          "key": "bitcoin",
+          "name": "bitcoin",
+          "variantCount": 30
+        },
+        {
+          "key": "ethereum",
+          "name": "ethereum",
+          "variantCount": 30
+        },
+        {
+          "key": "crypto-coin",
+          "name": "crypto-coin",
+          "variantCount": 30
+        },
+        {
+          "key": "crypto",
+          "name": "crypto",
+          "variantCount": 30
+        },
+        {
+          "key": "crypto-wallet",
+          "name": "crypto-wallet",
+          "variantCount": 30
+        },
+        {
+          "key": "web3",
+          "name": "web3, crypto-space, nft",
+          "variantCount": 30
+        },
+        {
+          "key": "gas",
+          "name": "gas",
+          "variantCount": 30
+        },
+        {
+          "key": "airdrop",
+          "name": "airdrop, free, drop",
+          "variantCount": 30
+        },
+        {
+          "key": "trading-view-steps",
+          "name": "trading-view-steps",
+          "variantCount": 30
+        },
+        {
+          "key": "trading-view-line",
+          "name": "trading-view-line",
+          "variantCount": 30
+        },
+        {
+          "key": "trading-view-candles",
+          "name": "trading-view-candles",
+          "variantCount": 30
+        },
+        {
+          "key": "coin",
+          "name": "coin",
+          "variantCount": 30
+        },
+        {
+          "key": "coins",
+          "name": "coins",
+          "variantCount": 30
+        },
+        {
+          "key": "coins-add",
+          "name": "coins-add",
+          "variantCount": 30
+        },
+        {
+          "key": "cryptopunk",
+          "name": "cryptopunk,nft,pfp,profile,avatar",
+          "variantCount": 30
+        }
+      ]
+    },
+    {
+      "nodeId": "6361:51464",
+      "name": "Weather",
+      "iconCount": 19,
+      "iconTypes": [
+        {
+          "key": "sun",
+          "name": "sun, light-mode, day, today",
+          "variantCount": 30
+        },
+        {
+          "key": "moon",
+          "name": "moon, dark-mode, night",
+          "variantCount": 30
+        },
+        {
+          "key": "moon-star",
+          "name": "moon-star, night",
+          "variantCount": 30
+        },
+        {
+          "key": "lightning",
+          "name": "lightning, zap, flash, thunder",
+          "variantCount": 30
+        },
+        {
+          "key": "thunder",
+          "name": "thunder,zap, flash",
+          "variantCount": 30
+        },
+        {
+          "key": "snow-flakes",
+          "name": "snow-flakes, freeze, frozen",
+          "variantCount": 30
+        },
+        {
+          "key": "wind",
+          "name": "wind, windy",
+          "variantCount": 30
+        },
+        {
+          "key": "cloud",
+          "name": "cloud, clouds",
+          "variantCount": 30
+        },
+        {
+          "key": "cloudy",
+          "name": "cloudy, clouds",
+          "variantCount": 30
+        },
+        {
+          "key": "cloudy-sun",
+          "name": "cloudy-sun, clouds",
+          "variantCount": 30
+        },
+        {
+          "key": "rainy",
+          "name": "rainy, rain",
+          "variantCount": 30
+        },
+        {
+          "key": "rainy-light",
+          "name": "rainy-light",
+          "variantCount": 30
+        },
+        {
+          "key": "cloud-snow",
+          "name": "cloud-snow",
+          "variantCount": 30
+        },
+        {
+          "key": "sunrise-arrow-up",
+          "name": "sunrise-arrow-up",
+          "variantCount": 30
+        },
+        {
+          "key": "sunset-arrow-down",
+          "name": "sunset-arrow-down",
+          "variantCount": 30
+        },
+        {
+          "key": "sunrise",
+          "name": "sunrise",
+          "variantCount": 30
+        },
+        {
+          "key": "sunset",
+          "name": "sunset",
+          "variantCount": 30
+        },
+        {
+          "key": "drop",
+          "name": "drop, water, precipitation, liquid",
+          "variantCount": 30
+        },
+        {
+          "key": "thermostat",
+          "name": "thermostat, temprature",
+          "variantCount": 30
+        }
+      ]
+    },
+    {
+      "nodeId": "5699:56386",
+      "name": "Sound & Music",
+      "iconCount": 37,
+      "iconTypes": [
+        {
+          "key": "volume-full",
+          "name": "volume-full, speaker, loud, sound",
+          "variantCount": 30
+        },
+        {
+          "key": "volume-half",
+          "name": "volume-half, speaker, loud, sound",
+          "variantCount": 30
+        },
+        {
+          "key": "volume-minimum",
+          "name": "volume-minimum, speaker, loud, sound",
+          "variantCount": 30
+        },
+        {
+          "key": "volume-off",
+          "name": "volume-off, sound-off",
+          "variantCount": 30
+        },
+        {
+          "key": "volume-down",
+          "name": "volume-down",
+          "variantCount": 30
+        },
+        {
+          "key": "volume-up",
+          "name": "volume-up",
+          "variantCount": 30
+        },
+        {
+          "key": "mute",
+          "name": "mute, sound-off",
+          "variantCount": 30
+        },
+        {
+          "key": "microphone",
+          "name": "microphone, mic, sound, podcast",
+          "variantCount": 30
+        },
+        {
+          "key": "microphone-off",
+          "name": "microphone-off",
+          "variantCount": 30
+        },
+        {
+          "key": "audio",
+          "name": "audio, music, playlist, musical-note",
+          "variantCount": 30
+        },
+        {
+          "key": "playlist",
+          "name": "playlist",
+          "variantCount": 30
+        },
+        {
+          "key": "headphones",
+          "name": "headphones, support",
+          "variantCount": 30
+        },
+        {
+          "key": "keyboard",
+          "name": "keyboard, midi, keys, piano",
+          "variantCount": 30
+        },
+        {
+          "key": "voice",
+          "name": "voice",
+          "variantCount": 30
+        },
+        {
+          "key": "megaphone",
+          "name": "megaphone, loud, speak, promote, feedback",
+          "variantCount": 30
+        },
+        {
+          "key": "play",
+          "name": "play, go",
+          "variantCount": 30
+        },
+        {
+          "key": "play-circle",
+          "name": "play-circle",
+          "variantCount": 30
+        },
+        {
+          "key": "pause",
+          "name": "pause",
+          "variantCount": 30
+        },
+        {
+          "key": "stop",
+          "name": "stop",
+          "variantCount": 30
+        },
+        {
+          "key": "stop-circle",
+          "name": "stop-circle",
+          "variantCount": 30
+        },
+        {
+          "key": "record",
+          "name": "record",
+          "variantCount": 30
+        },
+        {
+          "key": "rewind-5s",
+          "name": "rewind-5s",
+          "variantCount": 30
+        },
+        {
+          "key": "rewind-10s",
+          "name": "rewind-10s",
+          "variantCount": 30
+        },
+        {
+          "key": "rewind-15s",
+          "name": "rewind-15s",
+          "variantCount": 30
+        },
+        {
+          "key": "rewind-30s",
+          "name": "rewind-30s",
+          "variantCount": 30
+        },
+        {
+          "key": "fast-forward-5s",
+          "name": "fast-forward-5s",
+          "variantCount": 30
+        },
+        {
+          "key": "fast-forward-10s",
+          "name": "fast-forward-10s",
+          "variantCount": 30
+        },
+        {
+          "key": "fast-forward-15s",
+          "name": "fast-forward-15s",
+          "variantCount": 30
+        },
+        {
+          "key": "fast-forward-30s",
+          "name": "fast-forward-30s",
+          "variantCount": 30
+        },
+        {
+          "key": "back-10s",
+          "name": "back-10s",
+          "variantCount": 30
+        },
+        {
+          "key": "forwards-10s",
+          "name": "forwards-10s",
+          "variantCount": 30
+        },
+        {
+          "key": "fast-forward",
+          "name": "fast-forward",
+          "variantCount": 30
+        },
+        {
+          "key": "rewind",
+          "name": "rewind",
+          "variantCount": 30
+        },
+        {
+          "key": "skip",
+          "name": "skip, next",
+          "variantCount": 30
+        },
+        {
+          "key": "shuffle",
+          "name": "shuffle, random",
+          "variantCount": 30
+        },
+        {
+          "key": "repeat",
+          "name": "repeat",
+          "variantCount": 30
+        },
+        {
+          "key": "albums",
+          "name": "albums, cover",
+          "variantCount": 30
+        }
+      ]
+    },
+    {
+      "nodeId": "5604:60356",
+      "name": "Layout",
+      "iconCount": 40,
+      "iconTypes": [
+        {
+          "key": "layout-sidebar",
+          "name": "layout-sidebar, grid, window",
+          "variantCount": 30
+        },
+        {
+          "key": "layout-topbar",
+          "name": "layout-topbar, grid, window",
+          "variantCount": 30
+        },
+        {
+          "key": "layout-dashboard",
+          "name": "layout-dashboard, grid, window",
+          "variantCount": 30
+        },
+        {
+          "key": "layout-window",
+          "name": "layout-window, grid, window",
+          "variantCount": 30
+        },
+        {
+          "key": "layout-top",
+          "name": "layout-top, grid, window",
+          "variantCount": 30
+        },
+        {
+          "key": "layout-bottom",
+          "name": "layout-bottom, grid, window",
+          "variantCount": 30
+        },
+        {
+          "key": "layout-right",
+          "name": "layout-right, grid, window",
+          "variantCount": 30
+        },
+        {
+          "key": "layout-left",
+          "name": "layout-left, grid, window",
+          "variantCount": 30
+        },
+        {
+          "key": "layout-half",
+          "name": "layout-half",
+          "variantCount": 30
+        },
+        {
+          "key": "layout-third",
+          "name": "layout-third",
+          "variantCount": 30
+        },
+        {
+          "key": "layout-grid-1",
+          "name": "layout-grid-1, grid, window",
+          "variantCount": 30
+        },
+        {
+          "key": "layout-grid-2",
+          "name": "layout-grid-2, grid",
+          "variantCount": 30
+        },
+        {
+          "key": "layout-column",
+          "name": "layout-column, grid, column",
+          "variantCount": 30
+        },
+        {
+          "key": "layout-align-left",
+          "name": "layout-align-left",
+          "variantCount": 30
+        },
+        {
+          "key": "align-horizontal-center",
+          "name": "align-horizontal-center, alignment",
+          "variantCount": 30
+        },
+        {
+          "key": "layout-align-right",
+          "name": "layout-align-right",
+          "variantCount": 30
+        },
+        {
+          "key": "layout-align-top",
+          "name": "layout-align-top",
+          "variantCount": 30
+        },
+        {
+          "key": "align-vertical-center",
+          "name": "align-vertical-center, alignment",
+          "variantCount": 30
+        },
+        {
+          "key": "layout-align-bottom",
+          "name": "layout-align-bottom",
+          "variantCount": 30
+        },
+        {
+          "key": "slide-add",
+          "name": "slide-add",
+          "variantCount": 30
+        },
+        {
+          "key": "column-wide",
+          "name": "column-wide, colums",
+          "variantCount": 30
+        },
+        {
+          "key": "column-wide-add",
+          "name": "column-wide-add",
+          "variantCount": 30
+        },
+        {
+          "key": "column-wide-remove",
+          "name": "column-wide-remove",
+          "variantCount": 30
+        },
+        {
+          "key": "column-wide-half",
+          "name": "column-wide-half",
+          "variantCount": 30
+        },
+        {
+          "key": "column-wide-half-add",
+          "name": "column-wide-half-add",
+          "variantCount": 30
+        },
+        {
+          "key": "column-wide-half-remove",
+          "name": "column-wide-half-remove",
+          "variantCount": 30
+        },
+        {
+          "key": "slide-wide-add",
+          "name": "slide-wide-add",
+          "variantCount": 30
+        },
+        {
+          "key": "slide-tall-add",
+          "name": "slide-tall-add",
+          "variantCount": 30
+        },
+        {
+          "key": "slides-tall",
+          "name": "slides-tall",
+          "variantCount": 30
+        },
+        {
+          "key": "slides-tall-add",
+          "name": "slides-tall-add",
+          "variantCount": 30
+        },
+        {
+          "key": "slides-wide",
+          "name": "slides-wide",
+          "variantCount": 30
+        },
+        {
+          "key": "slides-wide-add",
+          "name": "slides-wide-add",
+          "variantCount": 30
+        },
+        {
+          "key": "layers-two",
+          "name": "layers-two, stack",
+          "variantCount": 30
+        },
+        {
+          "key": "layers-three",
+          "name": "layers-three, stack",
+          "variantCount": 30
+        },
+        {
+          "key": "layers-behind",
+          "name": "layers-behind, slides, pages",
+          "variantCount": 30
+        },
+        {
+          "key": "carussel",
+          "name": "carussel, slides",
+          "variantCount": 30
+        },
+        {
+          "key": "placeholder",
+          "name": "placeholder, generate",
+          "variantCount": 30
+        },
+        {
+          "key": "kanban-view",
+          "name": "kanban-view, columns",
+          "variantCount": 30
+        },
+        {
+          "key": "sidebar-left-arrow",
+          "name": "sidebar-left-arrow",
+          "variantCount": 30
+        },
+        {
+          "key": "sidebar-wide-left-arrow",
+          "name": "sidebar-wide-left-arrow",
+          "variantCount": 30
+        }
+      ]
+    },
+    {
+      "nodeId": "5645:58663",
+      "name": "AI & Magic",
+      "iconCount": 28,
+      "iconTypes": [
+        {
+          "key": "sparkles-three",
+          "name": "sparkles-three, ai 3 stars, sparkles, ✨",
+          "variantCount": 30
+        },
+        {
+          "key": "sparkles-two",
+          "name": "sparkles-two, ai 2 stars, sparkles, ✨",
+          "variantCount": 30
+        },
+        {
+          "key": "sparkles-two-2",
+          "name": "sparkles-two-2, ai 2 stars, sparkles, ✨",
+          "variantCount": 30
+        },
+        {
+          "key": "sparkles-soft",
+          "name": "sparkles-soft",
+          "variantCount": 30
+        },
+        {
+          "key": "sparkle",
+          "name": "sparkle, star, ai",
+          "variantCount": 30
+        },
+        {
+          "key": "sparkle-2",
+          "name": "sparkle-2, star, magic, ai",
+          "variantCount": 30
+        },
+        {
+          "key": "eye-sparkle",
+          "name": "eye-sparkle, magic eyes",
+          "variantCount": 30
+        },
+        {
+          "key": "image-sparkle",
+          "name": "image-sparkle, midjourney, ai generated, star",
+          "variantCount": 30
+        },
+        {
+          "key": "list-sparkle",
+          "name": "list-sparkle, ai text, text generation",
+          "variantCount": 30
+        },
+        {
+          "key": "prompt",
+          "name": "prompt, scan-text",
+          "variantCount": 30
+        },
+        {
+          "key": "magic-wand",
+          "name": "magic-wand, magic stick, star",
+          "variantCount": 30
+        },
+        {
+          "key": "magic-wand-2",
+          "name": "magic-wand-2, magic stick, star",
+          "variantCount": 30
+        },
+        {
+          "key": "magic-wand-3",
+          "name": "magic-wand-3, magic stick, star",
+          "variantCount": 30
+        },
+        {
+          "key": "window-sparkle",
+          "name": "window-sparkle, whisper, api, app, software",
+          "variantCount": 30
+        },
+        {
+          "key": "brain-1",
+          "name": "brain-1, ai, thinking, database, ki",
+          "variantCount": 30
+        },
+        {
+          "key": "brain-2",
+          "name": "brain-2, ai, thinking, database, ki",
+          "variantCount": 30
+        },
+        {
+          "key": "image-avatar-sparkle",
+          "name": "image-avatar-sparkle, generated avatar, profile ai, magic avatar",
+          "variantCount": 30
+        },
+        {
+          "key": "text-to-image",
+          "name": "text-to-image",
+          "variantCount": 30
+        },
+        {
+          "key": "magic-book",
+          "name": "magic-book, magician, sparkles",
+          "variantCount": 30
+        },
+        {
+          "key": "pencil-sparkle",
+          "name": "pencil-sparkle, magic pencil, magic brush",
+          "variantCount": 30
+        },
+        {
+          "key": "magic-edit",
+          "name": "magic-edit, magic-writing",
+          "variantCount": 30
+        },
+        {
+          "key": "broom-sparkle",
+          "name": "broom-sparkle, clean, brush",
+          "variantCount": 30
+        },
+        {
+          "key": "box-sparkle",
+          "name": "box-sparkle, magic box",
+          "variantCount": 30
+        },
+        {
+          "key": "hat-sparkle",
+          "name": "hat-sparkle, magic hat",
+          "variantCount": 30
+        },
+        {
+          "key": "hat-bunny",
+          "name": "hat-bunny, surprise, magic hat",
+          "variantCount": 30
+        },
+        {
+          "key": "fortune-teller-ball",
+          "name": "fortune-teller-ball,future",
+          "variantCount": 30
+        },
+        {
+          "key": "cute-robot",
+          "name": "cute-robot",
+          "variantCount": 30
+        },
+        {
+          "key": "robot",
+          "name": "robot",
+          "variantCount": 30
+        }
+      ]
+    },
+    {
+      "nodeId": "5717:57588",
+      "name": "Time & Date",
+      "iconCount": 35,
+      "iconTypes": [
+        {
+          "key": "calendar-1",
+          "name": "calendar-1, date",
+          "variantCount": 30
+        },
+        {
+          "key": "calendar-tear-off",
+          "name": "calendar-tear-off, date",
+          "variantCount": 30
+        },
+        {
+          "key": "calendar-2",
+          "name": "calendar-2, date",
+          "variantCount": 30
+        },
+        {
+          "key": "calender-add",
+          "name": "calender-add, date-add",
+          "variantCount": 30
+        },
+        {
+          "key": "calender-remove",
+          "name": "calender-remove, date-remove",
+          "variantCount": 30
+        },
+        {
+          "key": "calendar-check",
+          "name": "calendar-check, date-check",
+          "variantCount": 30
+        },
+        {
+          "key": "calendar-edit",
+          "name": "calendar-edit, date-edit",
+          "variantCount": 30
+        },
+        {
+          "key": "calendar-search",
+          "name": "calendar-search, date-search",
+          "variantCount": 30
+        },
+        {
+          "key": "calendar-repeat",
+          "name": "calendar-repeat, date-repeat",
+          "variantCount": 30
+        },
+        {
+          "key": "calender-today",
+          "name": "calender-today",
+          "variantCount": 30
+        },
+        {
+          "key": "calender-tomorrow",
+          "name": "calender-tomorrow",
+          "variantCount": 30
+        },
+        {
+          "key": "calender-next-week",
+          "name": "calender-next-week",
+          "variantCount": 30
+        },
+        {
+          "key": "calendar-days",
+          "name": "calendar-days",
+          "variantCount": 30
+        },
+        {
+          "key": "calendar-clock",
+          "name": "calendar-clock, date-time",
+          "variantCount": 30
+        },
+        {
+          "key": "calendar-3",
+          "name": "calendar-3, date",
+          "variantCount": 30
+        },
+        {
+          "key": "calendar-4",
+          "name": "calendar-4, date",
+          "variantCount": 30
+        },
+        {
+          "key": "calender-5",
+          "name": "calender-5,date",
+          "variantCount": 30
+        },
+        {
+          "key": "calendar-search-4",
+          "name": "calendar-search-4",
+          "variantCount": 30
+        },
+        {
+          "key": "calendar-remove-4",
+          "name": "calendar-remove-4",
+          "variantCount": 30
+        },
+        {
+          "key": "calendar-add-4",
+          "name": "calendar-add-4",
+          "variantCount": 30
+        },
+        {
+          "key": "calendar-check-4",
+          "name": "calendar-check-4",
+          "variantCount": 30
+        },
+        {
+          "key": "calendar-clock-4",
+          "name": "calendar-clock-4",
+          "variantCount": 30
+        },
+        {
+          "key": "clock-square",
+          "name": "clock-square, time, timer",
+          "variantCount": 30
+        },
+        {
+          "key": "clock",
+          "name": "clock, time, timer",
+          "variantCount": 30
+        },
+        {
+          "key": "clock-alert",
+          "name": "clock-alert, timer",
+          "variantCount": 30
+        },
+        {
+          "key": "clock-snooze",
+          "name": "clock-snooze, timer, snooze, zz",
+          "variantCount": 30
+        },
+        {
+          "key": "stopwatch",
+          "name": "stopwatch, track",
+          "variantCount": 30
+        },
+        {
+          "key": "time-flies",
+          "name": "time-flies, speed",
+          "variantCount": 30
+        },
+        {
+          "key": "hourglass",
+          "name": "hourglass",
+          "variantCount": 30
+        },
+        {
+          "key": "date-daily",
+          "name": "date-daily",
+          "variantCount": 30
+        },
+        {
+          "key": "date-weekly",
+          "name": "date-weekly",
+          "variantCount": 30
+        },
+        {
+          "key": "date-weekdays",
+          "name": "date-weekdays",
+          "variantCount": 30
+        },
+        {
+          "key": "date-monthly",
+          "name": "date-monthly",
+          "variantCount": 30
+        },
+        {
+          "key": "date-custom",
+          "name": "date-custom",
+          "variantCount": 30
+        },
+        {
+          "key": "date-yearly",
+          "name": "date-yearly,fireworks,new-year",
+          "variantCount": 30
+        }
+      ]
+    },
+    {
+      "nodeId": "5102:111213",
+      "name": "Interface General",
+      "iconCount": 130,
+      "iconTypes": [
+        {
+          "key": "bookmark",
+          "name": "bookmark, banner, flag, tag",
+          "variantCount": 30
+        },
+        {
+          "key": "bookmark-remove",
+          "name": "bookmark-remove, off",
+          "variantCount": 30
+        },
+        {
+          "key": "bookmark-plus",
+          "name": "bookmark-plus, banner, flag, tag",
+          "variantCount": 30
+        },
+        {
+          "key": "bookmark-delete",
+          "name": "bookmark-delete, remove, banner, flag, tag, x",
+          "variantCount": 30
+        },
+        {
+          "key": "bookmark-check",
+          "name": "bookmark-check, add, check",
+          "variantCount": 30
+        },
+        {
+          "key": "magnifying-glass",
+          "name": "magnifying-glass, search",
+          "variantCount": 30
+        },
+        {
+          "key": "magnifying-glass-2",
+          "name": "magnifying-glass-2, search ",
+          "variantCount": 30
+        },
+        {
+          "key": "search-menu",
+          "name": "search-menu,list-search",
+          "variantCount": 30
+        },
+        {
+          "key": "zoom-in",
+          "name": "zoom-in,search-plus",
+          "variantCount": 30
+        },
+        {
+          "key": "zoom-out",
+          "name": "zoom-out, search-minus",
+          "variantCount": 30
+        },
+        {
+          "key": "bell",
+          "name": "bell, notification, activity, alert",
+          "variantCount": 30
+        },
+        {
+          "key": "bell-off",
+          "name": "bell-off, notification off, activity, alert",
+          "variantCount": 30
+        },
+        {
+          "key": "bell-alarm",
+          "name": "bell-alarm, notification alarm, activity, alert",
+          "variantCount": 30
+        },
+        {
+          "key": "bell-2",
+          "name": "bell-2, notification, activity, alert",
+          "variantCount": 30
+        },
+        {
+          "key": "bell-2-snooze",
+          "name": "bell-2-snooze, notification, activity, alert",
+          "variantCount": 30
+        },
+        {
+          "key": "hand-bell",
+          "name": "hand-bell",
+          "variantCount": 30
+        },
+        {
+          "key": "archive-1",
+          "name": "archive-1, inbox, file",
+          "variantCount": 30
+        },
+        {
+          "key": "unarchiv",
+          "name": "unarchiv, unbox",
+          "variantCount": 30
+        },
+        {
+          "key": "box-2",
+          "name": "box-2, inbox, archive, tray, shelf",
+          "variantCount": 30
+        },
+        {
+          "key": "box-2-alt-fill",
+          "name": "box-2-alt-fill, inbox, archive, tray, shelf",
+          "variantCount": 30
+        },
+        {
+          "key": "inbox-empty",
+          "name": "inbox-empty",
+          "variantCount": 30
+        },
+        {
+          "key": "todos",
+          "name": "todos,check,things",
+          "variantCount": 30
+        },
+        {
+          "key": "window",
+          "name": "window, timeline, feed, posts",
+          "variantCount": 30
+        },
+        {
+          "key": "square-behind-square-1",
+          "name": "square-behind-square-1, copy 1, layers, pages",
+          "variantCount": 30
+        },
+        {
+          "key": "square-behind-square-2",
+          "name": "square-behind-square-2, copy 2, layers, pages",
+          "variantCount": 30
+        },
+        {
+          "key": "square-behind-square-3",
+          "name": "square-behind-square-3, copy 3, layers, pages",
+          "variantCount": 30
+        },
+        {
+          "key": "square-behind-square-4",
+          "name": "square-behind-square-4, copy 4, layers, pages",
+          "variantCount": 30
+        },
+        {
+          "key": "square-doted-behind-square",
+          "name": "square-doted-behind-square, copy, layers, pages",
+          "variantCount": 30
+        },
+        {
+          "key": "square-behind-square-6",
+          "name": "square-behind-square-6, layers, copy 6, pages",
+          "variantCount": 30
+        },
+        {
+          "key": "square-lines",
+          "name": "square-lines, note, card, text",
+          "variantCount": 30
+        },
+        {
+          "key": "trash-can",
+          "name": "trash-can, delete, remove, garbage, waste",
+          "variantCount": 30
+        },
+        {
+          "key": "trash-can-simple",
+          "name": "trash-can-simple, delete, remove, garbage, waste",
+          "variantCount": 30
+        },
+        {
+          "key": "trash-can-2",
+          "name": "trash-can-2, delete, remove, garbage, waste",
+          "variantCount": 30
+        },
+        {
+          "key": "trash-paper",
+          "name": "trash-paper",
+          "variantCount": 30
+        },
+        {
+          "key": "bucket",
+          "name": "bucket, trash, can",
+          "variantCount": 30
+        },
+        {
+          "key": "shredder",
+          "name": "shredder, permanently",
+          "variantCount": 30
+        },
+        {
+          "key": "compass-round",
+          "name": "compass-round, browser, safari, web, internet, navigation",
+          "variantCount": 30
+        },
+        {
+          "key": "compass-square",
+          "name": "compass-square, browser, safari, web, internet, navigation",
+          "variantCount": 30
+        },
+        {
+          "key": "window-app",
+          "name": "window-app, browser, app, desktop",
+          "variantCount": 30
+        },
+        {
+          "key": "window-2",
+          "name": "window-2, browser, app, desktop",
+          "variantCount": 30
+        },
+        {
+          "key": "square-circle-top-right",
+          "name": "square-circle-top-right, notifications, badge",
+          "variantCount": 30
+        },
+        {
+          "key": "star",
+          "name": "star, favorite, award",
+          "variantCount": 30
+        },
+        {
+          "key": "star-lines",
+          "name": "star-lines, features, favorite, award, to the moon",
+          "variantCount": 30
+        },
+        {
+          "key": "feature",
+          "name": "feature, shine",
+          "variantCount": 30
+        },
+        {
+          "key": "review",
+          "name": "review,star-square",
+          "variantCount": 30
+        },
+        {
+          "key": "shapes-plus-x-square-circle",
+          "name": "shapes-plus-x-square-circle, icon, icons, shapes, games",
+          "variantCount": 30
+        },
+        {
+          "key": "square-check",
+          "name": "square-check, checkbox, check, checkmark, confirm",
+          "variantCount": 30
+        },
+        {
+          "key": "circle-check",
+          "name": "circle-check, check radio, circle, checkbox, check, checkmark, confirm",
+          "variantCount": 30
+        },
+        {
+          "key": "checkmark-1",
+          "name": "checkmark-1",
+          "variantCount": 30
+        },
+        {
+          "key": "checkmark-2",
+          "name": "checkmark-2",
+          "variantCount": 30
+        },
+        {
+          "key": "checklist",
+          "name": "checklist, list",
+          "variantCount": 30
+        },
+        {
+          "key": "share",
+          "name": "share",
+          "variantCount": 30
+        },
+        {
+          "key": "thumbtack",
+          "name": "thumbtack, pin, location, bookmark ",
+          "variantCount": 30
+        },
+        {
+          "key": "pin",
+          "name": "pin",
+          "variantCount": 30
+        },
+        {
+          "key": "unpin",
+          "name": "unpin",
+          "variantCount": 30
+        },
+        {
+          "key": "square-arrow-down",
+          "name": "square-arrow-down, download square",
+          "variantCount": 30
+        },
+        {
+          "key": "circle-arrow-down",
+          "name": "circle-arrow-down, download square",
+          "variantCount": 30
+        },
+        {
+          "key": "arrow-inbox",
+          "name": "arrow-inbox, download, file, down ",
+          "variantCount": 30
+        },
+        {
+          "key": "arrow-box-right",
+          "name": "arrow-box-right, login, enter, door",
+          "variantCount": 30
+        },
+        {
+          "key": "arrow-out-of-box",
+          "name": "arrow-out-of-box, upload, share",
+          "variantCount": 30
+        },
+        {
+          "key": "arrow-box-left",
+          "name": "arrow-box-left, logout, leave, door",
+          "variantCount": 30
+        },
+        {
+          "key": "arrow-rounded",
+          "name": "arrow-rounded, share, arrow, login",
+          "variantCount": 31
+        },
+        {
+          "key": "sidebar",
+          "name": "sidebar, menu, list, window",
+          "variantCount": 30
+        },
+        {
+          "key": "square-info",
+          "name": "square-info, information, tooltip",
+          "variantCount": 30
+        },
+        {
+          "key": "circle-info",
+          "name": "circle-info, info circle, tooltip, information",
+          "variantCount": 30
+        },
+        {
+          "key": "circle-questionmark",
+          "name": "circle-questionmark, faq, help, questionaire",
+          "variantCount": 30
+        },
+        {
+          "key": "circle-ban-sign",
+          "name": "circle-ban-sign, circle, block, ads",
+          "variantCount": 30
+        },
+        {
+          "key": "triangle-exclamation",
+          "name": "triangle-exclamation, error, warning, alert",
+          "variantCount": 30
+        },
+        {
+          "key": "cain-link-1",
+          "name": "cain-link-1",
+          "variantCount": 30
+        },
+        {
+          "key": "cain-link-2",
+          "name": "cain-link-2",
+          "variantCount": 30
+        },
+        {
+          "key": "cain-link-3",
+          "name": "cain-link-3",
+          "variantCount": 30
+        },
+        {
+          "key": "broken-chain-link",
+          "name": "broken-chain-link",
+          "variantCount": 30
+        },
+        {
+          "key": "circle-placeholder-dashed",
+          "name": "circle-placeholder-dashed",
+          "variantCount": 30
+        },
+        {
+          "key": "circle-placeholder-on",
+          "name": "circle-placeholder-on",
+          "variantCount": 30
+        },
+        {
+          "key": "circle-placeholder-off",
+          "name": "circle-placeholder-off",
+          "variantCount": 30
+        },
+        {
+          "key": "circle-plus",
+          "name": "circle-plus, add",
+          "variantCount": 30
+        },
+        {
+          "key": "circle-minus",
+          "name": "circle-minus, remove",
+          "variantCount": 30
+        },
+        {
+          "key": "circle-x",
+          "name": "circle-x, close, checkbox, remove",
+          "variantCount": 30
+        },
+        {
+          "key": "square-placeholder-dashed",
+          "name": "square-placeholder-dashed",
+          "variantCount": 30
+        },
+        {
+          "key": "square-placeholder",
+          "name": "square-placeholder",
+          "variantCount": 30
+        },
+        {
+          "key": "square-plus",
+          "name": "square-plus, add",
+          "variantCount": 30
+        },
+        {
+          "key": "square-minus",
+          "name": "square-minus, remove, delete",
+          "variantCount": 30
+        },
+        {
+          "key": "square-x",
+          "name": "square-x, close, x, checkbox, remove",
+          "variantCount": 30
+        },
+        {
+          "key": "arrow-left-x",
+          "name": "arrow-left-x, delete, remove, backspace",
+          "variantCount": 30
+        },
+        {
+          "key": "heart",
+          "name": "heart, like, health, life, favorite",
+          "variantCount": 30
+        },
+        {
+          "key": "heart-2",
+          "name": "heart-2, like, health, life, fav",
+          "variantCount": 30
+        },
+        {
+          "key": "broken-heart",
+          "name": "broken-heart, delete-account",
+          "variantCount": 30
+        },
+        {
+          "key": "heart-beat",
+          "name": "heart-beat, heart rate, pulse",
+          "variantCount": 30
+        },
+        {
+          "key": "electrocardiogram",
+          "name": "electrocardiogram, activity, notification, pulse, heartbeat, beat",
+          "variantCount": 30
+        },
+        {
+          "key": "target",
+          "name": "target, arrow, goal, aim ",
+          "variantCount": 30
+        },
+        {
+          "key": "clipboard",
+          "name": "clipboard, copy, list",
+          "variantCount": 30
+        },
+        {
+          "key": "clipboard-2",
+          "name": "clipboard-2, copy, list",
+          "variantCount": 30
+        },
+        {
+          "key": "circle-dots-center-1",
+          "name": "circle-dots-center-1, menu 1, grid, circle",
+          "variantCount": 30
+        },
+        {
+          "key": "circle-dots-center-2",
+          "name": "circle-dots-center-2, menu 1, grid, circle",
+          "variantCount": 30
+        },
+        {
+          "key": "target-1",
+          "name": "target-1, zoom",
+          "variantCount": 30
+        },
+        {
+          "key": "target-2",
+          "name": "target-2, zoom",
+          "variantCount": 30
+        },
+        {
+          "key": "paperclip-1",
+          "name": "paperclip-1, attachment",
+          "variantCount": 30
+        },
+        {
+          "key": "paperclip-2",
+          "name": "paperclip-2, attachment",
+          "variantCount": 30
+        },
+        {
+          "key": "paperclip-3",
+          "name": "paperclip-3, attachment",
+          "variantCount": 30
+        },
+        {
+          "key": "anchor-1",
+          "name": "anchor-1, link",
+          "variantCount": 30
+        },
+        {
+          "key": "anchor-2",
+          "name": "anchor-2, link",
+          "variantCount": 30
+        },
+        {
+          "key": "window-cursor",
+          "name": "window-cursor, visit page, open app",
+          "variantCount": 30
+        },
+        {
+          "key": "gauge",
+          "name": "gauge, tachometer, performance, speed, scale",
+          "variantCount": 30
+        },
+        {
+          "key": "arrows-all-sides",
+          "name": "arrows-all-sides, move, focus",
+          "variantCount": 30
+        },
+        {
+          "key": "arrows-all-sides-2",
+          "name": "arrows-all-sides-2, scan, move, focus",
+          "variantCount": 30
+        },
+        {
+          "key": "barcode",
+          "name": "barcode, qr code, scan",
+          "variantCount": 30
+        },
+        {
+          "key": "qr-code",
+          "name": "qr-code, barcode, scan",
+          "variantCount": 30
+        },
+        {
+          "key": "light-bulb",
+          "name": "light-bulb, idea, light",
+          "variantCount": 30
+        },
+        {
+          "key": "light-bulb-simple",
+          "name": "light-bulb-simple, idea",
+          "variantCount": 30
+        },
+        {
+          "key": "square-grid-maginfying-glass",
+          "name": "square-grid-maginfying-glass, layout, grid, list, search, find, magifier",
+          "variantCount": 30
+        },
+        {
+          "key": "square-grid-circle",
+          "name": "square-grid-circle, layout, grid, list, category, categories",
+          "variantCount": 30
+        },
+        {
+          "key": "cross-large",
+          "name": "cross-large, crossed large, close",
+          "variantCount": 30
+        },
+        {
+          "key": "cross-small",
+          "name": "cross-small, crossed small, delete, remove",
+          "variantCount": 30
+        },
+        {
+          "key": "bars-two",
+          "name": "bars-two, menu simple, nav simple",
+          "variantCount": 30
+        },
+        {
+          "key": "bars-two-2",
+          "name": "bars-two-2, menu, nav",
+          "variantCount": 30
+        },
+        {
+          "key": "bars-three",
+          "name": "bars-three, menu, list, hamburger",
+          "variantCount": 30
+        },
+        {
+          "key": "bars-three-2",
+          "name": "bars-three-2, menu, list, hamburger",
+          "variantCount": 30
+        },
+        {
+          "key": "bars-three-3",
+          "name": "bars-three-3, menu, list, hamburger",
+          "variantCount": 30
+        },
+        {
+          "key": "dot-grid-3x3",
+          "name": "dot-grid-3x3, menu, drag, grab",
+          "variantCount": 30
+        },
+        {
+          "key": "dot-grid-2x3",
+          "name": "dot-grid-2x3, menu, drag, grab",
+          "variantCount": 30
+        },
+        {
+          "key": "dot-grid-1x3-horizontal",
+          "name": "dot-grid-1x3-horizontal, menu, drag, grab",
+          "variantCount": 30
+        },
+        {
+          "key": "dot-grid-1x3-vertical",
+          "name": "dot-grid-1x3-vertical, menu, drag, grab",
+          "variantCount": 30
+        },
+        {
+          "key": "loader",
+          "name": "loader",
+          "variantCount": 30
+        },
+        {
+          "key": "plus-large",
+          "name": "plus-large, add large",
+          "variantCount": 30
+        },
+        {
+          "key": "plus-small",
+          "name": "plus-small, add small",
+          "variantCount": 30
+        },
+        {
+          "key": "minus-large",
+          "name": "minus-large, remove, delete",
+          "variantCount": 30
+        },
+        {
+          "key": "minus-small",
+          "name": "minus-small, remove, delete",
+          "variantCount": 30
+        },
+        {
+          "key": "square-checklist",
+          "name": "square-checklist, checklist box, check, list",
+          "variantCount": 30
+        },
+        {
+          "key": "square-checklist-magnifying-glass",
+          "name": "square-checklist-magnifying-glass, checklist box, check, list, search",
+          "variantCount": 30
+        },
+        {
+          "key": "square-checklist-bell",
+          "name": "square-checklist-bell, checklist box, check, list, search",
+          "variantCount": 30
+        }
+      ]
+    },
+    {
+      "nodeId": "5565:2679",
+      "name": "Arrows",
+      "iconCount": 100,
+      "iconTypes": [
+        {
+          "key": "arrow-up-circle",
+          "name": "arrow-up-circle, arrow-top",
+          "variantCount": 30
+        },
+        {
+          "key": "arrow-right-up-circle",
+          "name": "arrow-right-up-circle",
+          "variantCount": 30
+        },
+        {
+          "key": "arrow-right-circle",
+          "name": "arrow-right-circle",
+          "variantCount": 30
+        },
+        {
+          "key": "arrow-right-down-circle",
+          "name": "arrow-right-down-circle",
+          "variantCount": 30
+        },
+        {
+          "key": "arrow-down-circle",
+          "name": "arrow-down-circle, arrow-bottom",
+          "variantCount": 30
+        },
+        {
+          "key": "arrow-left-down-circle",
+          "name": "arrow-left-down-circle",
+          "variantCount": 30
+        },
+        {
+          "key": "arrow-left-circle",
+          "name": "arrow-left-circle",
+          "variantCount": 30
+        },
+        {
+          "key": "arrow-left-up-circle",
+          "name": "arrow-left-up-circle",
+          "variantCount": 30
+        },
+        {
+          "key": "arrow-up",
+          "name": "arrow-up,arrow-top",
+          "variantCount": 30
+        },
+        {
+          "key": "arrow-up-right",
+          "name": "arrow-up-right",
+          "variantCount": 30
+        },
+        {
+          "key": "arrow-right",
+          "name": "arrow-right",
+          "variantCount": 30
+        },
+        {
+          "key": "arrow-down-right",
+          "name": "arrow-down-right",
+          "variantCount": 30
+        },
+        {
+          "key": "arrow-down",
+          "name": "arrow-down",
+          "variantCount": 30
+        },
+        {
+          "key": "arrow-down-left",
+          "name": "arrow-down-left",
+          "variantCount": 30
+        },
+        {
+          "key": "arrow-left",
+          "name": "arrow-left",
+          "variantCount": 30
+        },
+        {
+          "key": "arrow-up-left",
+          "name": "arrow-up-left",
+          "variantCount": 30
+        },
+        {
+          "key": "arrow-expand-hor",
+          "name": "arrow-expand-hor",
+          "variantCount": 30
+        },
+        {
+          "key": "arrow-expand-ver",
+          "name": "arrow-expand-ver",
+          "variantCount": 30
+        },
+        {
+          "key": "expand-45",
+          "name": "expand-45, enlarge",
+          "variantCount": 30
+        },
+        {
+          "key": "minimize-45",
+          "name": "minimize-45, arrow, shrink",
+          "variantCount": 30
+        },
+        {
+          "key": "expand-315",
+          "name": "expand-315, enlarge",
+          "variantCount": 30
+        },
+        {
+          "key": "minimize-315",
+          "name": "minimize-315, arrow, shrink",
+          "variantCount": 30
+        },
+        {
+          "key": "chevron-top",
+          "name": "chevron-top",
+          "variantCount": 30
+        },
+        {
+          "key": "chevron-right",
+          "name": "chevron-right",
+          "variantCount": 30
+        },
+        {
+          "key": "chevron-bottom",
+          "name": "chevron-bottom",
+          "variantCount": 30
+        },
+        {
+          "key": "chevron-left",
+          "name": "chevron-left",
+          "variantCount": 30
+        },
+        {
+          "key": "chevron-top-small",
+          "name": "chevron-top-small",
+          "variantCount": 29
+        },
+        {
+          "key": "chevron-down-small",
+          "name": "chevron-down-small",
+          "variantCount": 30
+        },
+        {
+          "key": "chevron-right-small",
+          "name": "chevron-right-small",
+          "variantCount": 30
+        },
+        {
+          "key": "chevron-left-small",
+          "name": "chevron-left-small",
+          "variantCount": 30
+        },
+        {
+          "key": "chevron-double-up",
+          "name": "chevron-double-up",
+          "variantCount": 30
+        },
+        {
+          "key": "chevron-double-down",
+          "name": "chevron-double-down",
+          "variantCount": 30
+        },
+        {
+          "key": "chevron-double-right",
+          "name": "chevron-double-right",
+          "variantCount": 30
+        },
+        {
+          "key": "chevron-double-left",
+          "name": "chevron-double-left",
+          "variantCount": 30
+        },
+        {
+          "key": "expand-simple",
+          "name": "expand-simple",
+          "variantCount": 30
+        },
+        {
+          "key": "expand-simple-2",
+          "name": "expand-simple-2",
+          "variantCount": 30
+        },
+        {
+          "key": "chevron-grabber-vertical",
+          "name": "chevron-grabber-vertical",
+          "variantCount": 30
+        },
+        {
+          "key": "chevron-grabber-horizontal",
+          "name": "chevron-grabber-horizontal",
+          "variantCount": 30
+        },
+        {
+          "key": "arrow-path-right",
+          "name": "arrow-path-right",
+          "variantCount": 30
+        },
+        {
+          "key": "arrow-path-left",
+          "name": "arrow-path-left",
+          "variantCount": 30
+        },
+        {
+          "key": "arrow-path-up",
+          "name": "arrow-path-up",
+          "variantCount": 30
+        },
+        {
+          "key": "arrow-path-down",
+          "name": "arrow-path-down",
+          "variantCount": 30
+        },
+        {
+          "key": "arrow-corner-down-right",
+          "name": "arrow-corner-down-right",
+          "variantCount": 30
+        },
+        {
+          "key": "arrow-corner-right-up",
+          "name": "arrow-corner-right-up",
+          "variantCount": 30
+        },
+        {
+          "key": "arrow-corner-right-down",
+          "name": "arrow-corner-right-down",
+          "variantCount": 30
+        },
+        {
+          "key": "arrow-corner-left-up",
+          "name": "arrow-corner-left-up",
+          "variantCount": 30
+        },
+        {
+          "key": "arrow-corner-left-down",
+          "name": "arrow-corner-left-down",
+          "variantCount": 30
+        },
+        {
+          "key": "arrow-corner-up-right",
+          "name": "arrow-corner-up-right",
+          "variantCount": 30
+        },
+        {
+          "key": "arrow-corner-down-left",
+          "name": "arrow-corner-down-left",
+          "variantCount": 30
+        },
+        {
+          "key": "arrow-corner-up-left",
+          "name": "arrow-corner-up-left",
+          "variantCount": 30
+        },
+        {
+          "key": "arrow-undo-up",
+          "name": "arrow-undo-up, back, top ",
+          "variantCount": 30
+        },
+        {
+          "key": "arrow-redo-up",
+          "name": "arrow-redo-up, forward",
+          "variantCount": 30
+        },
+        {
+          "key": "arrow-undo-down",
+          "name": "arrow-undo-down, back, bottom",
+          "variantCount": 30
+        },
+        {
+          "key": "arrow-redo-down",
+          "name": "arrow-redo-down, forward",
+          "variantCount": 30
+        },
+        {
+          "key": "step-back",
+          "name": "step-back,undo",
+          "variantCount": 30
+        },
+        {
+          "key": "step-forwards",
+          "name": "step-forwards,continue",
+          "variantCount": 30
+        },
+        {
+          "key": "arrow-top-bottom",
+          "name": "arrow-top-bottom, sort 1, switch vertical",
+          "variantCount": 30
+        },
+        {
+          "key": "arrow-bottom-top",
+          "name": "arrow-bottom-top, sort 2, switch vertical",
+          "variantCount": 30
+        },
+        {
+          "key": "arrow-split",
+          "name": "arrow-split, rules, direction, split",
+          "variantCount": 30
+        },
+        {
+          "key": "arrow-right-left",
+          "name": "arrow-right-left, sort 1, switch horizontal",
+          "variantCount": 30
+        },
+        {
+          "key": "arrow-left-right",
+          "name": "arrow-left-right, sort 2, switch horizonatl",
+          "variantCount": 30
+        },
+        {
+          "key": "arrows-repeat",
+          "name": "arrows-repeat, repost",
+          "variantCount": 30
+        },
+        {
+          "key": "arrows-repeat-right-left",
+          "name": "arrows-repeat-right-left, repost",
+          "variantCount": 30
+        },
+        {
+          "key": "arrows-repeat-left-right",
+          "name": "arrows-repeat-left-right, retweet",
+          "variantCount": 30
+        },
+        {
+          "key": "arrows-repeat-circle",
+          "name": "arrows-repeat-circle, repost",
+          "variantCount": 30
+        },
+        {
+          "key": "arrow-rotate-clockwise",
+          "name": "arrow-rotate-clockwise, rotate-right",
+          "variantCount": 30
+        },
+        {
+          "key": "arrow-rotate-counter-clockwise",
+          "name": "arrow-rotate-counter-clockwise, rotate-left",
+          "variantCount": 30
+        },
+        {
+          "key": "arrow",
+          "name": "arrow, refresh, renew",
+          "variantCount": 30
+        },
+        {
+          "key": "arrow-rotate-left-right",
+          "name": "arrow-rotate-left-right, repeat, refresh",
+          "variantCount": 30
+        },
+        {
+          "key": "arrow-rotate-right-left",
+          "name": "arrow-rotate-right-left, repeat, refresh",
+          "variantCount": 30
+        },
+        {
+          "key": "arrow-up-down-left-right",
+          "name": "arrow-up-down-left-right, move",
+          "variantCount": 30
+        },
+        {
+          "key": "cursor-1",
+          "name": "cursor-1, arrow",
+          "variantCount": 30
+        },
+        {
+          "key": "cursor-2",
+          "name": "cursor-2, arrow",
+          "variantCount": 30
+        },
+        {
+          "key": "cursor-3",
+          "name": "cursor-3, arrow",
+          "variantCount": 30
+        },
+        {
+          "key": "square-cursor",
+          "name": "square-cursor, cursor box, arrow",
+          "variantCount": 30
+        },
+        {
+          "key": "cursor-click",
+          "name": "cursor-click, arrow, clickbait",
+          "variantCount": 30
+        },
+        {
+          "key": "arrow-share-left",
+          "name": "arrow-share-left, back, last, reply",
+          "variantCount": 30
+        },
+        {
+          "key": "arrow-share-right",
+          "name": "arrow-share-right, next, forward",
+          "variantCount": 30
+        },
+        {
+          "key": "chevron-large-left",
+          "name": "chevron-large-left, chev left, last",
+          "variantCount": 30
+        },
+        {
+          "key": "chevron-large-right",
+          "name": "chevron-large-right, chev right, next",
+          "variantCount": 30
+        },
+        {
+          "key": "chevron-large-top",
+          "name": "chevron-large-top, chev top, up",
+          "variantCount": 30
+        },
+        {
+          "key": "chevron-large-down",
+          "name": "chevron-large-down, chev down, down",
+          "variantCount": 30
+        },
+        {
+          "key": "arrow-wall-right",
+          "name": "arrow-wall-right, align right",
+          "variantCount": 30
+        },
+        {
+          "key": "arrow-wall-left",
+          "name": "arrow-wall-left, align left",
+          "variantCount": 30
+        },
+        {
+          "key": "arrow-wall-down",
+          "name": "arrow-wall-down, align bottom",
+          "variantCount": 30
+        },
+        {
+          "key": "arrow-wall-up",
+          "name": "arrow-wall-up, align top",
+          "variantCount": 30
+        },
+        {
+          "key": "arrow-wall-2-right",
+          "name": "arrow-wall-2-right, align right",
+          "variantCount": 30
+        },
+        {
+          "key": "arrow-wall-2-left",
+          "name": "arrow-wall-2-left, align left",
+          "variantCount": 30
+        },
+        {
+          "key": "arrow-wall-2-down",
+          "name": "arrow-wall-2-down, align bottom",
+          "variantCount": 30
+        },
+        {
+          "key": "arrow-wall-2-up",
+          "name": "arrow-wall-2-up, align top",
+          "variantCount": 30
+        },
+        {
+          "key": "arrow-triangle-right",
+          "name": "arrow-triangle-right",
+          "variantCount": 30
+        },
+        {
+          "key": "arrow-triangle-left",
+          "name": "arrow-triangle-left",
+          "variantCount": 30
+        },
+        {
+          "key": "arrow-triangle-bottom",
+          "name": "arrow-triangle-bottom",
+          "variantCount": 30
+        },
+        {
+          "key": "arrow-triangle-top",
+          "name": "arrow-triangle-top",
+          "variantCount": 30
+        },
+        {
+          "key": "square-arrow-top-right",
+          "name": "square-arrow-top-right, open, new, link, open link, box, arrow",
+          "variantCount": 30
+        },
+        {
+          "key": "square-arrow-top-right-2",
+          "name": "square-arrow-top-right-2, open, new, link, open link, box, arrow",
+          "variantCount": 30
+        },
+        {
+          "key": "square-arrow-center",
+          "name": "square-arrow-center, resize big, box, arrow",
+          "variantCount": 30
+        },
+        {
+          "key": "square-arrow-bottom-right",
+          "name": "square-arrow-bottom-right, resize small, box, arrow",
+          "variantCount": 30
+        },
+        {
+          "key": "square-arrow-in-top-left",
+          "name": "square-arrow-in-top-left, dock, box, arrow",
+          "variantCount": 30
+        },
+        {
+          "key": "square-arrow-out-top-left",
+          "name": "square-arrow-out-top-left, undock, box, arrow",
+          "variantCount": 30
+        }
+      ]
+    },
+    {
+      "nodeId": "5705:57261",
+      "name": "Security",
+      "iconCount": 25,
+      "iconTypes": [
+        {
+          "key": "lock",
+          "name": "lock, private",
+          "variantCount": 30
+        },
+        {
+          "key": "unlocked",
+          "name": "unlocked, unlock, private",
+          "variantCount": 30
+        },
+        {
+          "key": "shield",
+          "name": "shield, security, protection",
+          "variantCount": 30
+        },
+        {
+          "key": "shield-crossed",
+          "name": "shield-crossed, security, protection",
+          "variantCount": 30
+        },
+        {
+          "key": "shield-check",
+          "name": "shield-check, security, protection",
+          "variantCount": 30
+        },
+        {
+          "key": "shield-keyhole",
+          "name": "shield-keyhole",
+          "variantCount": 30
+        },
+        {
+          "key": "shield-check-2",
+          "name": "shield-check-2, protect, security, check",
+          "variantCount": 30
+        },
+        {
+          "key": "shield-check-3",
+          "name": "shield-check-3, check",
+          "variantCount": 30
+        },
+        {
+          "key": "shield-break",
+          "name": "shield-break, not-secure",
+          "variantCount": 30
+        },
+        {
+          "key": "password",
+          "name": "password, lock, protection",
+          "variantCount": 30
+        },
+        {
+          "key": "face-id",
+          "name": "face-id",
+          "variantCount": 30
+        },
+        {
+          "key": "finger-print-1",
+          "name": "finger-print-1, touch-id",
+          "variantCount": 30
+        },
+        {
+          "key": "finger-print-2",
+          "name": "finger-print-2, touch-id",
+          "variantCount": 30
+        },
+        {
+          "key": "umbrella-security",
+          "name": "umbrella-security",
+          "variantCount": 30
+        },
+        {
+          "key": "law",
+          "name": "law, legal, terms, imprint, balance",
+          "variantCount": 30
+        },
+        {
+          "key": "key",
+          "name": "key",
+          "variantCount": 30
+        },
+        {
+          "key": "passkeys",
+          "name": "passkeys, passkey, passwordless",
+          "variantCount": 30
+        },
+        {
+          "key": "asterisk",
+          "name": "asterisk, placeholder",
+          "variantCount": 30
+        },
+        {
+          "key": "keyhole",
+          "name": "keyhole",
+          "variantCount": 30
+        },
+        {
+          "key": "anonymous",
+          "name": "anonymous, anonym, hidden",
+          "variantCount": 30
+        },
+        {
+          "key": "ghost",
+          "name": "ghost, hidden, unknown",
+          "variantCount": 30
+        },
+        {
+          "key": "passport",
+          "name": "passport, visa",
+          "variantCount": 30
+        },
+        {
+          "key": "vault",
+          "name": "vault, safe",
+          "variantCount": 30
+        },
+        {
+          "key": "firewall",
+          "name": "firewall,wall",
+          "variantCount": 30
+        },
+        {
+          "key": "siren",
+          "name": "siren, alarm",
+          "variantCount": 30
+        }
+      ]
+    },
+    {
+      "nodeId": "5612:61852",
+      "name": "Shopping & Payment",
+      "iconCount": 53,
+      "iconTypes": [
+        {
+          "key": "credit-card-1",
+          "name": "credit-card-1, card, payment",
+          "variantCount": 30
+        },
+        {
+          "key": "credit-card-add",
+          "name": "credit-card-add, card, payment",
+          "variantCount": 30
+        },
+        {
+          "key": "credit-card-2",
+          "name": "credit-card-2, card, payment",
+          "variantCount": 30
+        },
+        {
+          "key": "giro-card",
+          "name": "giro-card",
+          "variantCount": 30
+        },
+        {
+          "key": "giro-cards",
+          "name": "giro-cards",
+          "variantCount": 30
+        },
+        {
+          "key": "wallet-1",
+          "name": "wallet-1",
+          "variantCount": 30
+        },
+        {
+          "key": "wallet-2",
+          "name": "wallet-2",
+          "variantCount": 30
+        },
+        {
+          "key": "wallet-3",
+          "name": "wallet-3",
+          "variantCount": 30
+        },
+        {
+          "key": "wallet-4",
+          "name": "wallet-4",
+          "variantCount": 30
+        },
+        {
+          "key": "banknote-1",
+          "name": "banknote-1,money, bill",
+          "variantCount": 30
+        },
+        {
+          "key": "banknote-2",
+          "name": "banknote-2,money, bill",
+          "variantCount": 30
+        },
+        {
+          "key": "moneybag",
+          "name": "moneybag, purse, savings",
+          "variantCount": 30
+        },
+        {
+          "key": "euro",
+          "name": "euro, currency, money, coin, EURO",
+          "variantCount": 30
+        },
+        {
+          "key": "yen",
+          "name": "yen, currency, money, coin",
+          "variantCount": 30
+        },
+        {
+          "key": "dollar",
+          "name": "dollar, currency, money, coin, USD",
+          "variantCount": 30
+        },
+        {
+          "key": "pound",
+          "name": "pound, currency, money, coin, GBP",
+          "variantCount": 30
+        },
+        {
+          "key": "basket-1",
+          "name": "basket-1, cart, shopping",
+          "variantCount": 30
+        },
+        {
+          "key": "add-to-basket",
+          "name": "add-to-basket",
+          "variantCount": 30
+        },
+        {
+          "key": "remove-from-basket",
+          "name": "remove-from-basket",
+          "variantCount": 30
+        },
+        {
+          "key": "basket-2",
+          "name": "basket-2, shopping-bag",
+          "variantCount": 30
+        },
+        {
+          "key": "add-to-basket-2",
+          "name": "add-to-basket-2",
+          "variantCount": 30
+        },
+        {
+          "key": "remove-from-basket-2",
+          "name": "remove-from-basket-2",
+          "variantCount": 30
+        },
+        {
+          "key": "shopping-bag-1",
+          "name": "shopping-bag-1",
+          "variantCount": 30
+        },
+        {
+          "key": "shopping-bag-like-1",
+          "name": "shopping-bag-like-1",
+          "variantCount": 30
+        },
+        {
+          "key": "shopping-bag-2",
+          "name": "shopping-bag-2",
+          "variantCount": 30
+        },
+        {
+          "key": "shopping-bag-block-2",
+          "name": "shopping-bag-block-2",
+          "variantCount": 30
+        },
+        {
+          "key": "shopping-bag-edit-2",
+          "name": "shopping-bag-edit-2",
+          "variantCount": 30
+        },
+        {
+          "key": "shopping-bag-bookmark-2",
+          "name": "shopping-bag-bookmark-2",
+          "variantCount": 30
+        },
+        {
+          "key": "shopping-bag-add-2",
+          "name": "shopping-bag-add-2",
+          "variantCount": 30
+        },
+        {
+          "key": "shopping-bag-like-2",
+          "name": "shopping-bag-like-2",
+          "variantCount": 30
+        },
+        {
+          "key": "shopping-bag-3",
+          "name": "shopping-bag-3",
+          "variantCount": 30
+        },
+        {
+          "key": "shopping-bag-4",
+          "name": "shopping-bag-4",
+          "variantCount": 30
+        },
+        {
+          "key": "gift-1",
+          "name": "gift-1, present",
+          "variantCount": 30
+        },
+        {
+          "key": "gift-2",
+          "name": "gift-2, present",
+          "variantCount": 30
+        },
+        {
+          "key": "giftcard",
+          "name": "giftcard, present",
+          "variantCount": 30
+        },
+        {
+          "key": "package",
+          "name": "package, delivery",
+          "variantCount": 30
+        },
+        {
+          "key": "package-delivery-1",
+          "name": "package-delivery-1, address",
+          "variantCount": 30
+        },
+        {
+          "key": "package-delivery-2",
+          "name": "package-delivery-2, address",
+          "variantCount": 30
+        },
+        {
+          "key": "package-search",
+          "name": "package-search",
+          "variantCount": 30
+        },
+        {
+          "key": "package-edit",
+          "name": "package-edit",
+          "variantCount": 30
+        },
+        {
+          "key": "package-ckeck",
+          "name": "package-ckeck",
+          "variantCount": 30
+        },
+        {
+          "key": "package-block",
+          "name": "package-block",
+          "variantCount": 30
+        },
+        {
+          "key": "package-remove",
+          "name": "package-remove",
+          "variantCount": 30
+        },
+        {
+          "key": "package-add",
+          "name": "package-add",
+          "variantCount": 30
+        },
+        {
+          "key": "package-security",
+          "name": "package-security",
+          "variantCount": 30
+        },
+        {
+          "key": "package-delivery",
+          "name": "package-delivery",
+          "variantCount": 30
+        },
+        {
+          "key": "truck",
+          "name": "truck, delivery",
+          "variantCount": 30
+        },
+        {
+          "key": "percent",
+          "name": "percent, sales",
+          "variantCount": 30
+        },
+        {
+          "key": "receipt-check",
+          "name": "receipt-check, ticket",
+          "variantCount": 30
+        },
+        {
+          "key": "receipt-bill",
+          "name": "receipt-bill, purchase, invoice",
+          "variantCount": 30
+        },
+        {
+          "key": "receipt-tax",
+          "name": "receipt-tax, discount",
+          "variantCount": 30
+        },
+        {
+          "key": "receipt-check-2",
+          "name": "receipt-check-2, ticket",
+          "variantCount": 30
+        },
+        {
+          "key": "receipt-storno",
+          "name": "receipt-storno, close, remove",
+          "variantCount": 30
+        }
+      ]
+    },
+    {
+      "nodeId": "6717:58420",
+      "name": "Gaming",
+      "iconCount": 22,
+      "iconTypes": [
+        {
+          "key": "gamepad",
+          "name": "gamepad, gaming, joystick",
+          "variantCount": 30
+        },
+        {
+          "key": "gamepad-controls",
+          "name": "gamepad-controls, joystick",
+          "variantCount": 30
+        },
+        {
+          "key": "gamepad-controls-right",
+          "name": "gamepad-controls-right, joystick",
+          "variantCount": 30
+        },
+        {
+          "key": "gamepad-controls-left",
+          "name": "gamepad-controls-left, joystick",
+          "variantCount": 30
+        },
+        {
+          "key": "gamepad-controls-up",
+          "name": "gamepad-controls-up, joystick",
+          "variantCount": 30
+        },
+        {
+          "key": "gamepad-controls-down",
+          "name": "gamepad-controls-down, joystick",
+          "variantCount": 30
+        },
+        {
+          "key": "gamepad-controls-round",
+          "name": "gamepad-controls-round, joystick",
+          "variantCount": 30
+        },
+        {
+          "key": "gamepad-controls-round-right",
+          "name": "gamepad-controls-round-right",
+          "variantCount": 30
+        },
+        {
+          "key": "gamepad-controls-round-left",
+          "name": "gamepad-controls-round-left",
+          "variantCount": 30
+        },
+        {
+          "key": "gamepad-controls-round-up",
+          "name": "gamepad-controls-round-up",
+          "variantCount": 30
+        },
+        {
+          "key": "gamepad-controls-round-down",
+          "name": "gamepad-controls-round-down",
+          "variantCount": 30
+        },
+        {
+          "key": "dice-1",
+          "name": "dice-1, roll",
+          "variantCount": 30
+        },
+        {
+          "key": "dice-2",
+          "name": "dice-2, roll",
+          "variantCount": 30
+        },
+        {
+          "key": "dice-3",
+          "name": "dice-3, roll",
+          "variantCount": 30
+        },
+        {
+          "key": "dice-4",
+          "name": "dice-4, roll",
+          "variantCount": 30
+        },
+        {
+          "key": "dice-5",
+          "name": "dice-5, roll",
+          "variantCount": 30
+        },
+        {
+          "key": "dice-6",
+          "name": "dice-6, roll",
+          "variantCount": 30
+        },
+        {
+          "key": "dices",
+          "name": "dices, random, roll",
+          "variantCount": 30
+        },
+        {
+          "key": "roulette-1",
+          "name": "roulette-1,coincidence,gambling",
+          "variantCount": 30
+        },
+        {
+          "key": "roulette-2",
+          "name": "roulette-2,coincidence,gambling",
+          "variantCount": 30
+        },
+        {
+          "key": "slots",
+          "name": "slots,slot-mashine, gambling",
+          "variantCount": 30
+        },
+        {
+          "key": "scratch-card",
+          "name": "scratch-card",
+          "variantCount": 30
+        }
+      ]
+    },
+    {
+      "nodeId": "5723:58096",
+      "name": "Code",
+      "iconCount": 34,
+      "iconTypes": [
+        {
+          "key": "code",
+          "name": "code",
+          "variantCount": 30
+        },
+        {
+          "key": "console",
+          "name": "console, terminal",
+          "variantCount": 30
+        },
+        {
+          "key": "console-simple",
+          "name": "console-simple",
+          "variantCount": 30
+        },
+        {
+          "key": "code-brackets",
+          "name": "code-brackets",
+          "variantCount": 30
+        },
+        {
+          "key": "code-insert",
+          "name": "code-insert",
+          "variantCount": 30
+        },
+        {
+          "key": "pull-request",
+          "name": "pull-request",
+          "variantCount": 30
+        },
+        {
+          "key": "fork",
+          "name": "fork",
+          "variantCount": 30
+        },
+        {
+          "key": "branches",
+          "name": "branches",
+          "variantCount": 30
+        },
+        {
+          "key": "ship",
+          "name": "ship, changelog",
+          "variantCount": 30
+        },
+        {
+          "key": "sandbox",
+          "name": "sandbox, safe",
+          "variantCount": 30
+        },
+        {
+          "key": "animation-linear",
+          "name": "animation-linear",
+          "variantCount": 30
+        },
+        {
+          "key": "animation-ease-out",
+          "name": "animation-ease-out",
+          "variantCount": 30
+        },
+        {
+          "key": "animation-ease-in",
+          "name": "animation-ease-in",
+          "variantCount": 30
+        },
+        {
+          "key": "animation-ease",
+          "name": "animation-ease",
+          "variantCount": 30
+        },
+        {
+          "key": "animation-auto",
+          "name": "animation-auto",
+          "variantCount": 30
+        },
+        {
+          "key": "animation-elastic",
+          "name": "animation-elastic,bezier-curves",
+          "variantCount": 30
+        },
+        {
+          "key": "animation-undershoot",
+          "name": "animation-undershoot",
+          "variantCount": 30
+        },
+        {
+          "key": "animation-overshoot",
+          "name": "animation-overshoot",
+          "variantCount": 30
+        },
+        {
+          "key": "animation-none",
+          "name": "animation-none",
+          "variantCount": 30
+        },
+        {
+          "key": "bezier-curves",
+          "name": "bezier-curves, animation, motion, spring",
+          "variantCount": 30
+        },
+        {
+          "key": "run-shortcut",
+          "name": "run-shortcut,slash",
+          "variantCount": 30
+        },
+        {
+          "key": "animation",
+          "name": "animation",
+          "variantCount": 30
+        },
+        {
+          "key": "brackets-1",
+          "name": "brackets-1",
+          "variantCount": 30
+        },
+        {
+          "key": "brackets-2",
+          "name": "brackets-2",
+          "variantCount": 30
+        },
+        {
+          "key": "code-lines",
+          "name": "code-lines",
+          "variantCount": 30
+        },
+        {
+          "key": "api-connection",
+          "name": "api-connection",
+          "variantCount": 30
+        },
+        {
+          "key": "api-aggregate",
+          "name": "api-aggregate",
+          "variantCount": 30
+        },
+        {
+          "key": "bug-face",
+          "name": "bug-face, issue",
+          "variantCount": 30
+        },
+        {
+          "key": "bug",
+          "name": "bug, issue",
+          "variantCount": 30
+        },
+        {
+          "key": "debugger",
+          "name": "debugger, debug",
+          "variantCount": 30
+        },
+        {
+          "key": "push",
+          "name": "push, launch, rocket",
+          "variantCount": 30
+        },
+        {
+          "key": "testflight",
+          "name": "testflight, beta",
+          "variantCount": 30
+        },
+        {
+          "key": "beta",
+          "name": "beta",
+          "variantCount": 30
+        },
+        {
+          "key": "alpha",
+          "name": "alpha",
+          "variantCount": 30
+        }
+      ]
+    },
+    {
+      "nodeId": "5723:62437",
+      "name": "Filter & Settings",
+      "iconCount": 16,
+      "iconTypes": [
+        {
+          "key": "settings-toggle-1",
+          "name": "settings-toggle-1",
+          "variantCount": 30
+        },
+        {
+          "key": "settings-toggle-2",
+          "name": "settings-toggle-2",
+          "variantCount": 30
+        },
+        {
+          "key": "settings-gear-1",
+          "name": "settings-gear-1, preferences",
+          "variantCount": 30
+        },
+        {
+          "key": "settings-gear-2",
+          "name": "settings-gear-2, preferences",
+          "variantCount": 30
+        },
+        {
+          "key": "settings-gear-3",
+          "name": "settings-gear-3, preferences",
+          "variantCount": 30
+        },
+        {
+          "key": "maintenance",
+          "name": "maintenance, settings, service",
+          "variantCount": 30
+        },
+        {
+          "key": "settings-slider-hor",
+          "name": "settings-slider-hor",
+          "variantCount": 30
+        },
+        {
+          "key": "settings-slider-ver",
+          "name": "settings-slider-ver",
+          "variantCount": 30
+        },
+        {
+          "key": "settings-slider-three",
+          "name": "settings-slider-three",
+          "variantCount": 30
+        },
+        {
+          "key": "settings-knob",
+          "name": "settings-knob",
+          "variantCount": 30
+        },
+        {
+          "key": "filter-1",
+          "name": "filter-1, sort",
+          "variantCount": 30
+        },
+        {
+          "key": "filter-2",
+          "name": "filter-2, sort",
+          "variantCount": 30
+        },
+        {
+          "key": "filter-ascending",
+          "name": "filter-ascending, sort, az",
+          "variantCount": 30
+        },
+        {
+          "key": "filter-descending",
+          "name": "filter-descending, sort, za",
+          "variantCount": 30
+        },
+        {
+          "key": "filter-timeline",
+          "name": "filter-timeline, sort",
+          "variantCount": 30
+        },
+        {
+          "key": "reorder",
+          "name": "reorder",
+          "variantCount": 30
+        }
+      ]
+    },
+    {
+      "nodeId": "5723:65841",
+      "name": "Things",
+      "iconCount": 86,
+      "iconTypes": [
+        {
+          "key": "emoji-smiling-face",
+          "name": "emoji-smiling-face, heart-eyes",
+          "variantCount": 30
+        },
+        {
+          "key": "emoji-smiley",
+          "name": "emoji-smiley, face, smile",
+          "variantCount": 30
+        },
+        {
+          "key": "emoji-alt",
+          "name": "emoji-alt",
+          "variantCount": 30
+        },
+        {
+          "key": "emoji-arc",
+          "name": "emoji-arc",
+          "variantCount": 30
+        },
+        {
+          "key": "emoji-smile",
+          "name": "emoji-smile",
+          "variantCount": 30
+        },
+        {
+          "key": "emoji-add-reaction",
+          "name": "emoji-add-reaction, reaction",
+          "variantCount": 30
+        },
+        {
+          "key": "emoji-sad",
+          "name": "emoji-sad, unhappy",
+          "variantCount": 30
+        },
+        {
+          "key": "emoji-sleep",
+          "name": "emoji-sleep,snooze",
+          "variantCount": 30
+        },
+        {
+          "key": "poop",
+          "name": "poop, spam",
+          "variantCount": 30
+        },
+        {
+          "key": "toilet-paper",
+          "name": "toilet-paper, wipe",
+          "variantCount": 30
+        },
+        {
+          "key": "circles-three",
+          "name": "circles-three, bubbles",
+          "variantCount": 30
+        },
+        {
+          "key": "playground",
+          "name": "playground, forms, shapes, geo",
+          "variantCount": 30
+        },
+        {
+          "key": "tactics",
+          "name": "tactics,prototype,play",
+          "variantCount": 30
+        },
+        {
+          "key": "subscription-tick-1",
+          "name": "subscription-tick-1,verify",
+          "variantCount": 30
+        },
+        {
+          "key": "subscription-tick-2",
+          "name": "subscription-tick-2,verify",
+          "variantCount": 30
+        },
+        {
+          "key": "subscription-star",
+          "name": "subscription-star,verify",
+          "variantCount": 30
+        },
+        {
+          "key": "support",
+          "name": "support",
+          "variantCount": 3
+        },
+        {
+          "key": "filledon",
+          "name": "filled=on, 2, 0, round",
+          "variantCount": 27
+        },
+        {
+          "key": "receiption-bell",
+          "name": "receiption-bell, concierge",
+          "variantCount": 30
+        },
+        {
+          "key": "rescue-ring",
+          "name": "rescue-ring, swim-boyle, help, support",
+          "variantCount": 30
+        },
+        {
+          "key": "scissors-1",
+          "name": "scissors-1, cut",
+          "variantCount": 30
+        },
+        {
+          "key": "scissors-2",
+          "name": "scissors-2, cut",
+          "variantCount": 30
+        },
+        {
+          "key": "stocks",
+          "name": "stocks",
+          "variantCount": 30
+        },
+        {
+          "key": "dashboard-fast",
+          "name": "dashboard-fast",
+          "variantCount": 30
+        },
+        {
+          "key": "dashboard-middle",
+          "name": "dashboard-middle",
+          "variantCount": 30
+        },
+        {
+          "key": "dashboard-low",
+          "name": "dashboard-low",
+          "variantCount": 30
+        },
+        {
+          "key": "limit",
+          "name": "limit",
+          "variantCount": 30
+        },
+        {
+          "key": "fire-1",
+          "name": "fire-1, flame, hot, heat",
+          "variantCount": 30
+        },
+        {
+          "key": "fire-2",
+          "name": "fire-2, flame, hot, heat",
+          "variantCount": 30
+        },
+        {
+          "key": "reading-list",
+          "name": "reading-list, glasses, steve-jobs",
+          "variantCount": 30
+        },
+        {
+          "key": "suitcase",
+          "name": "suitcase, luggage, case",
+          "variantCount": 30
+        },
+        {
+          "key": "ticket",
+          "name": "ticket, admit, vip",
+          "variantCount": 30
+        },
+        {
+          "key": "flag-1",
+          "name": "flag-1, priority",
+          "variantCount": 30
+        },
+        {
+          "key": "flag-2",
+          "name": "flag-2, priority",
+          "variantCount": 30
+        },
+        {
+          "key": "piggy-bank",
+          "name": "piggy-bank, save-money",
+          "variantCount": 30
+        },
+        {
+          "key": "diamond",
+          "name": "diamond, pro, premium",
+          "variantCount": 30
+        },
+        {
+          "key": "bike",
+          "name": "bike",
+          "variantCount": 30
+        },
+        {
+          "key": "mountain-bike",
+          "name": "mountain-bike",
+          "variantCount": 30
+        },
+        {
+          "key": "roller",
+          "name": "roller, scooter",
+          "variantCount": 30
+        },
+        {
+          "key": "car",
+          "name": "car",
+          "variantCount": 30
+        },
+        {
+          "key": "director-chair",
+          "name": "director-chair, chair",
+          "variantCount": 30
+        },
+        {
+          "key": "lab",
+          "name": "lab",
+          "variantCount": 30
+        },
+        {
+          "key": "test-tube",
+          "name": "test-tube",
+          "variantCount": 30
+        },
+        {
+          "key": "rocket",
+          "name": "rocket, startup, launch",
+          "variantCount": 30
+        },
+        {
+          "key": "tag",
+          "name": "tag, sale",
+          "variantCount": 30
+        },
+        {
+          "key": "life-vest",
+          "name": "life-vest, vest",
+          "variantCount": 30
+        },
+        {
+          "key": "crown",
+          "name": "crown, vip",
+          "variantCount": 30
+        },
+        {
+          "key": "stamps",
+          "name": "stamps, collection",
+          "variantCount": 30
+        },
+        {
+          "key": "infinity",
+          "name": "infinity, loop, boomerang",
+          "variantCount": 30
+        },
+        {
+          "key": "alien",
+          "name": "alien",
+          "variantCount": 30
+        },
+        {
+          "key": "ufo",
+          "name": "ufo, beam",
+          "variantCount": 30
+        },
+        {
+          "key": "space",
+          "name": "space, star",
+          "variantCount": 30
+        },
+        {
+          "key": "sticker",
+          "name": "sticker, badge",
+          "variantCount": 30
+        },
+        {
+          "key": "bomb",
+          "name": "bomb, boom",
+          "variantCount": 30
+        },
+        {
+          "key": "trophy",
+          "name": "trophy, win, champion",
+          "variantCount": 30
+        },
+        {
+          "key": "medal",
+          "name": "medal, trophy, badge, winner, win",
+          "variantCount": 30
+        },
+        {
+          "key": "celebrate",
+          "name": "celebrate, party, confetti",
+          "variantCount": 30
+        },
+        {
+          "key": "explosion",
+          "name": "explosion, boom, bang, pop",
+          "variantCount": 30
+        },
+        {
+          "key": "galaxy",
+          "name": "galaxy, dark-hole",
+          "variantCount": 30
+        },
+        {
+          "key": "make-it-pop",
+          "name": "make-it-pop, design",
+          "variantCount": 30
+        },
+        {
+          "key": "graduate-cap",
+          "name": "graduate-cap, study, education, academic, student",
+          "variantCount": 30
+        },
+        {
+          "key": "balloon",
+          "name": "balloon, birthday",
+          "variantCount": 30
+        },
+        {
+          "key": "puzzle",
+          "name": "puzzle, plugin",
+          "variantCount": 30
+        },
+        {
+          "key": "plugin",
+          "name": "plugin, power, adapter",
+          "variantCount": 30
+        },
+        {
+          "key": "live-activity",
+          "name": "live-activity, fitness",
+          "variantCount": 30
+        },
+        {
+          "key": "stage",
+          "name": "stage, show",
+          "variantCount": 30
+        },
+        {
+          "key": "organisation",
+          "name": "organisation, organimgram",
+          "variantCount": 30
+        },
+        {
+          "key": "copyright",
+          "name": "copyright",
+          "variantCount": 30
+        },
+        {
+          "key": "thread",
+          "name": "thread",
+          "variantCount": 30
+        },
+        {
+          "key": "baymax",
+          "name": "baymax, bot, help",
+          "variantCount": 30
+        },
+        {
+          "key": "pokeball",
+          "name": "pokeball, catch",
+          "variantCount": 30
+        },
+        {
+          "key": "broom",
+          "name": "broom, brush, clear, clean",
+          "variantCount": 30
+        },
+        {
+          "key": "books",
+          "name": "books, library",
+          "variantCount": 30
+        },
+        {
+          "key": "pilone",
+          "name": "pilone, maintenance",
+          "variantCount": 30
+        },
+        {
+          "key": "parasol",
+          "name": "parasol,umbrella,vacation",
+          "variantCount": 30
+        },
+        {
+          "key": "bag",
+          "name": "bag, luggage, buggage ",
+          "variantCount": 30
+        },
+        {
+          "key": "bag-2",
+          "name": "bag-2, luggage, buggage ",
+          "variantCount": 30
+        },
+        {
+          "key": "suitcase-work",
+          "name": "suitcase-work,workspace",
+          "variantCount": 30
+        },
+        {
+          "key": "suitcase-sticker",
+          "name": "suitcase-sticker, vacation, travel",
+          "variantCount": 30
+        },
+        {
+          "key": "backpack",
+          "name": "backpack,travel",
+          "variantCount": 30
+        },
+        {
+          "key": "curtain",
+          "name": "curtain,showtime,theater",
+          "variantCount": 30
+        },
+        {
+          "key": "warning-sign",
+          "name": "warning-sign,attention,coution",
+          "variantCount": 30
+        },
+        {
+          "key": "wreath",
+          "name": "wreath, crown, laurel-leafs",
+          "variantCount": 30
+        },
+        {
+          "key": "thinking-bubble",
+          "name": "thinking-bubble",
+          "variantCount": 30
+        },
+        {
+          "key": "judge-gavel",
+          "name": "judge-gavel, legal, terms, law",
+          "variantCount": 30
+        },
+        {
+          "key": "fashion",
+          "name": "fashion, wear, clothes, t-shirt",
+          "variantCount": 30
+        }
+      ]
+    },
+    {
+      "nodeId": "7479:66226",
+      "name": "Food",
+      "iconCount": 26,
+      "iconTypes": [
+        {
+          "key": "cheeseburger",
+          "name": "cheeseburger, hamburger, sandwich",
+          "variantCount": 30
+        },
+        {
+          "key": "burger",
+          "name": "burger, hamburger, sandwich ",
+          "variantCount": 30
+        },
+        {
+          "key": "drink",
+          "name": "drink, cup, straw",
+          "variantCount": 30
+        },
+        {
+          "key": "cup",
+          "name": "cup, tea, coffee",
+          "variantCount": 30
+        },
+        {
+          "key": "cup-hot",
+          "name": "cup-hot, coffee, tea, milk",
+          "variantCount": 30
+        },
+        {
+          "key": "hot-drink-cup",
+          "name": "hot-drink-cup,coffee-mug,dup",
+          "variantCount": 30
+        },
+        {
+          "key": "cookies",
+          "name": "cookies",
+          "variantCount": 30
+        },
+        {
+          "key": "birthday-cake",
+          "name": "birthday-cake",
+          "variantCount": 30
+        },
+        {
+          "key": "apples",
+          "name": "apples, fruit",
+          "variantCount": 30
+        },
+        {
+          "key": "popsicle-1",
+          "name": "popsicle-1, ice-cream, sweets",
+          "variantCount": 30
+        },
+        {
+          "key": "popsicle-2",
+          "name": "popsicle-2, ice-cream, sweets",
+          "variantCount": 30
+        },
+        {
+          "key": "pizza",
+          "name": "pizza",
+          "variantCount": 30
+        },
+        {
+          "key": "donut",
+          "name": "donut",
+          "variantCount": 30
+        },
+        {
+          "key": "avocado",
+          "name": "avocado",
+          "variantCount": 30
+        },
+        {
+          "key": "orange",
+          "name": "orange",
+          "variantCount": 30
+        },
+        {
+          "key": "cherry",
+          "name": "cherry",
+          "variantCount": 30
+        },
+        {
+          "key": "toast",
+          "name": "toast, breakfest",
+          "variantCount": 30
+        },
+        {
+          "key": "popcorn",
+          "name": "popcorn, movies, series",
+          "variantCount": 30
+        },
+        {
+          "key": "bottle",
+          "name": "bottle",
+          "variantCount": 30
+        },
+        {
+          "key": "cocktail",
+          "name": "cocktail, drink",
+          "variantCount": 30
+        },
+        {
+          "key": "food-experiences",
+          "name": "food-experiences,plate",
+          "variantCount": 30
+        },
+        {
+          "key": "food-bell",
+          "name": "food-bell, serving-bell, glosche, serve",
+          "variantCount": 30
+        },
+        {
+          "key": "cable-knife",
+          "name": "cable-knife, restaurant, cutlery",
+          "variantCount": 30
+        },
+        {
+          "key": "knife-spoon",
+          "name": "knife-spoon, restaurant, cutlery",
+          "variantCount": 30
+        },
+        {
+          "key": "cereals",
+          "name": "cereals, wheat",
+          "variantCount": 30
+        },
+        {
+          "key": "toque",
+          "name": "toque, chefs-cap, cook",
+          "variantCount": 30
+        }
+      ]
+    },
+    {
+      "nodeId": "6664:55157",
+      "name": "Augmented Reality",
+      "iconCount": 15,
+      "iconTypes": [
+        {
+          "key": "vision-pro",
+          "name": "vision-pro, goggles",
+          "variantCount": 30
+        },
+        {
+          "key": "oculus",
+          "name": "oculus",
+          "variantCount": 30
+        },
+        {
+          "key": "ar",
+          "name": "ar, augmented-reality, card-box, 3d, virtual reality, VR",
+          "variantCount": 30
+        },
+        {
+          "key": "ar-cube-1",
+          "name": "ar-cube-1",
+          "variantCount": 30
+        },
+        {
+          "key": "ar-cube-2",
+          "name": "ar-cube-2",
+          "variantCount": 30
+        },
+        {
+          "key": "3d-sphere",
+          "name": "3d-sphere",
+          "variantCount": 30
+        },
+        {
+          "key": "ar-cube-3",
+          "name": "ar-cube-3",
+          "variantCount": 30
+        },
+        {
+          "key": "ar-scan-cube-1",
+          "name": "ar-scan-cube-1",
+          "variantCount": 30
+        },
+        {
+          "key": "ar-scan-cube-2",
+          "name": "ar-scan-cube-2",
+          "variantCount": 30
+        },
+        {
+          "key": "spatial-capture",
+          "name": "spatial-capture",
+          "variantCount": 30
+        },
+        {
+          "key": "around",
+          "name": "around, spatial",
+          "variantCount": 30
+        },
+        {
+          "key": "panorama-view",
+          "name": "panorama-view",
+          "variantCount": 30
+        },
+        {
+          "key": "vision-pro-app",
+          "name": "vision-pro-app, window",
+          "variantCount": 30
+        },
+        {
+          "key": "rotate",
+          "name": "rotate, rotation, x-axis",
+          "variantCount": 30
+        },
+        {
+          "key": "qm3",
+          "name": "qm3, room, transform, xyz, 3d",
+          "variantCount": 30
+        }
+      ]
+    },
+    {
+      "nodeId": "5751:61516",
+      "name": "Edit",
+      "iconCount": 35,
+      "iconTypes": [
+        {
+          "key": "color-roll",
+          "name": "color-roll, paint-roller",
+          "variantCount": 30
+        },
+        {
+          "key": "write-1",
+          "name": "write-1, fountain-pen",
+          "variantCount": 30
+        },
+        {
+          "key": "write-2",
+          "name": "write-2, fountain-pen",
+          "variantCount": 30
+        },
+        {
+          "key": "feather",
+          "name": "feather, writing",
+          "variantCount": 30
+        },
+        {
+          "key": "color-picker",
+          "name": "color-picker, color",
+          "variantCount": 30
+        },
+        {
+          "key": "brush",
+          "name": "brush, color",
+          "variantCount": 30
+        },
+        {
+          "key": "pencil",
+          "name": "pencil, edit, write",
+          "variantCount": 30
+        },
+        {
+          "key": "eraser",
+          "name": "eraser,rubber",
+          "variantCount": 30
+        },
+        {
+          "key": "marker",
+          "name": "marker,highlight",
+          "variantCount": 30
+        },
+        {
+          "key": "marker-circle",
+          "name": "marker-circle,highlight",
+          "variantCount": 30
+        },
+        {
+          "key": "pencil-wave",
+          "name": "pencil-wave",
+          "variantCount": 30
+        },
+        {
+          "key": "pencel-line",
+          "name": "pencel-line",
+          "variantCount": 30
+        },
+        {
+          "key": "text-edit",
+          "name": "text-edit, prompts, comment",
+          "variantCount": 30
+        },
+        {
+          "key": "writing",
+          "name": "writing",
+          "variantCount": 30
+        },
+        {
+          "key": "highlight",
+          "name": "highlight, mark, freehand",
+          "variantCount": 30
+        },
+        {
+          "key": "ruler",
+          "name": "ruler",
+          "variantCount": 30
+        },
+        {
+          "key": "edit-small-1",
+          "name": "edit-small-1, box, pencil, pen, write, draw",
+          "variantCount": 30
+        },
+        {
+          "key": "edit-small-2",
+          "name": "edit-small-2",
+          "variantCount": 30
+        },
+        {
+          "key": "edit-big",
+          "name": "edit-big, box, pencil, pen, write, draw",
+          "variantCount": 30
+        },
+        {
+          "key": "slice",
+          "name": "slice, knife",
+          "variantCount": 30
+        },
+        {
+          "key": "bezier-curve",
+          "name": "bezier-curve, bezier, vector,svg",
+          "variantCount": 30
+        },
+        {
+          "key": "vector-logo",
+          "name": "vector-logo,svg",
+          "variantCount": 30
+        },
+        {
+          "key": "bezier-circle",
+          "name": "bezier-circle, vector, nodes",
+          "variantCount": 30
+        },
+        {
+          "key": "bezier",
+          "name": "bezier, vector, nodes",
+          "variantCount": 30
+        },
+        {
+          "key": "bezier-add",
+          "name": "bezier-add, vector, nodes",
+          "variantCount": 30
+        },
+        {
+          "key": "bezier-remove",
+          "name": "bezier-remove, vector, nodes",
+          "variantCount": 30
+        },
+        {
+          "key": "bezier-pointer",
+          "name": "bezier-pointer",
+          "variantCount": 30
+        },
+        {
+          "key": "bezier--edit",
+          "name": "bezier--edit",
+          "variantCount": 30
+        },
+        {
+          "key": "color-palette",
+          "name": "color-palette, colours",
+          "variantCount": 30
+        },
+        {
+          "key": "color-swatch",
+          "name": "color-swatch, palette, colours",
+          "variantCount": 30
+        },
+        {
+          "key": "colors",
+          "name": "colors, rgb, adjustments",
+          "variantCount": 30
+        },
+        {
+          "key": "signature",
+          "name": "signature, sign",
+          "variantCount": 30
+        },
+        {
+          "key": "toolbox",
+          "name": "toolbox",
+          "variantCount": 30
+        },
+        {
+          "key": "markdown",
+          "name": "markdown",
+          "variantCount": 30
+        },
+        {
+          "key": "magnet",
+          "name": "magnet, snap-pixel, snap",
+          "variantCount": 30
+        }
+      ]
+    },
+    {
+      "nodeId": "5741:61154",
+      "name": "People",
+      "iconCount": 18,
+      "iconTypes": [
+        {
+          "key": "people",
+          "name": "people, user, person, avatar",
+          "variantCount": 30
+        },
+        {
+          "key": "people-added",
+          "name": "people-added, user-added",
+          "variantCount": 30
+        },
+        {
+          "key": "people-add",
+          "name": "people-add, user-add",
+          "variantCount": 30
+        },
+        {
+          "key": "people-remove",
+          "name": "people-remove, user-remove",
+          "variantCount": 30
+        },
+        {
+          "key": "people-add-2",
+          "name": "people-add-2",
+          "variantCount": 30
+        },
+        {
+          "key": "people-remove-2",
+          "name": "people-remove-2",
+          "variantCount": 30
+        },
+        {
+          "key": "people-like",
+          "name": "people-like, inner circle",
+          "variantCount": 30
+        },
+        {
+          "key": "people-2",
+          "name": "people-2",
+          "variantCount": 30
+        },
+        {
+          "key": "people-circle",
+          "name": "people-circle, user-circle,avatar,profile",
+          "variantCount": 30
+        },
+        {
+          "key": "group-1",
+          "name": "group-1, users",
+          "variantCount": 30
+        },
+        {
+          "key": "group-2",
+          "name": "group-2, users",
+          "variantCount": 30
+        },
+        {
+          "key": "group-3",
+          "name": "group-3",
+          "variantCount": 30
+        },
+        {
+          "key": "people-copy",
+          "name": "people-copy, members",
+          "variantCount": 30
+        },
+        {
+          "key": "contacts",
+          "name": "contacts,address-book",
+          "variantCount": 30
+        },
+        {
+          "key": "head",
+          "name": "head, avatar",
+          "variantCount": 30
+        },
+        {
+          "key": "streaming",
+          "name": "streaming, live, stream",
+          "variantCount": 30
+        },
+        {
+          "key": "teacher",
+          "name": "teacher",
+          "variantCount": 30
+        },
+        {
+          "key": "teacher-whiteboard",
+          "name": "teacher-whiteboard",
+          "variantCount": 30
+        }
+      ]
+    }
+  ],
+  "totalIconTypes": 1080,
+  "totalVariants": 32372
+}

@@ -1,0 +1,9 @@
+{
+  "globus": "http://localhost:3845/assets/6b878c2492e54dd797f3351362b2cca745b25d88.svg",
+  "map-pin": "http://localhost:3845/assets/12d3e17540a58170fc74c7ece185a80f17873f2a.svg",
+  "earth": "http://localhost:3845/assets/41ef9dab6e173bd0ec0341b25a68bd151092dc91.svg",
+  "world": "http://localhost:3845/assets/aa666594a3bb0864440d1b81dd56df0da44cc6fc.svg",
+  "send": "http://localhost:3845/assets/ff0e57068173d98a77eff85a0ff7bd20c6f9f6c8.svg",
+  "map": "http://localhost:3845/assets/e6144ff0e30b0f50fef8bca94ad5d022dfd81ff7.svg",
+  "direction-1": "http://localhost:3845/assets/1cf898ca4ff7990c5fbdf2d591837eba8d50f3cc.svg"
+}

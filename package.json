@@ -1,0 +1,53 @@
+{
+  "name": "@basithambat/open-icons",
+  "version": "1.0.0",
+  "description": "Icon set extracted from Open Icons (Figma) - React components and SVG",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/basithambat/open-icons.git"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/basithambat"
+  },
+  "type": "module",
+  "main": "./dist/index.js",
+  "module": "./dist/index.js",
+  "types": "./dist/index.d.ts",
+  "exports": {
+    ".": {
+      "import": "./dist/index.js",
+      "types": "./dist/index.d.ts"
+    },
+    "./react": {
+      "import": "./dist/react.js",
+      "types": "./dist/react.d.ts"
+    }
+  },
+  "files": [
+    "dist",
+    "svg"
+  ],
+  "scripts": {
+    "build": "tsup",
+    "export-svgs": "node scripts/export-svgs-from-figma.js && node scripts/generate-svg-registry.js",
+    "fetch-from-figma-desktop": "node scripts/fetch-from-figma-desktop.js",
+    "generate-svg-registry": "node scripts/generate-svg-registry.js",
+    "extract": "node scripts/extract-figma-icons.js figma-metadata"
+  },
+  "peerDependencies": {
+    "react": ">=17.0.0"
+  },
+  "devDependencies": {
+    "@types/react": "^18.2.0",
+    "react": "^18.2.0",
+    "tsup": "^8.0.0",
+    "typescript": "^5.0.0"
+  },
+  "keywords": [
+    "icons",
+    "figma",
+    "react",
+    "svg"
+  ],
+  "license": "MIT"
+}
