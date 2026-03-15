@@ -59,19 +59,22 @@ import { Icon } from '@basithambat/open-icons/react';
 <Icon name="send" size={20} />
 ```
 
-- **`name`** (string, required): icon key in kebab-case, e.g. `"map-pin"`, `"github"`, `"send"`. There are 1,080 names; the package normalizes aliases (e.g. `openai,chatgpt` → `openai-chatgpt`).
-- **`size`** (number, optional): width and height in pixels. Default is `24`.
-- Other props (e.g. `className`, `style`, `aria-label`, `onClick`) are passed through to the underlying SVG.
+- **`name`** (required): icon key in kebab-case. Use type **`IconName`** for autocomplete and type-checking (1,080 names). Examples: `"map-pin"`, `"github"`, `"send"`. The package normalizes aliases (e.g. `openai,chatgpt` → `openai-chatgpt`).
+- **`size`** (optional): width and height in pixels. Default is `24`.
+- **`ref`**: forwarded to the underlying `<svg>` (for focus, measurement, or animation).
+- Other props (e.g. `className`, `style`, `aria-label`, `onClick`) are passed through to the SVG.
+- **Accessibility:** Icons are treated as decorative by default (`aria-hidden`). Pass **`aria-label`** when the icon has meaning (e.g. “Submit”, “Close”).
+- **Styling:** Icons use `currentColor`; set color via `className` or `style` (e.g. `className="text-blue-500"` or `style={{ color: 'red' }}`).
 
 ### 3. Optional: list or look up icon names
 
 Import from the **main** entry `@basithambat/open-icons`:
 
 ```tsx
-import { iconKeys, getIconMeta, categories } from '@basithambat/open-icons';
+import { iconKeys, getIconMeta, categories, type IconName } from '@basithambat/open-icons';
 
-// All 1,080 icon names
-console.log(iconKeys);
+// All 1,080 icon names (use IconName for strict typing)
+const names: IconName[] = iconKeys;
 
 // Metadata for one icon
 getIconMeta('map-pin'); // { iconKey, categoryName, categoryNodeId, nodeId, variantName }
@@ -88,18 +91,18 @@ Use these for pickers, search, or autocomplete over `iconKeys`.
 
 - **Module format:** ESM only. Use in an ESM or bundler-based project (Vite, Next, CRA, etc.); no CommonJS `require()` from this package.
 - **Exports:**
-  - `@basithambat/open-icons` → registry: `iconKeys`, `categories`, `getIconMeta`, `getIconsByCategory`, `iconRegistry`, `svgContent`, type `IconMeta`.
-  - `@basithambat/open-icons/react` → React: `Icon` component, `iconKeys`, `getIconMeta`, types `IconProps`, `IconMeta`.
+  - **`@basithambat/open-icons`** → `iconKeys`, `categories`, `getIconMeta`, `getIconsByCategory`, `iconRegistry`, `svgContent`, types `IconMeta`, `IconName`.
+  - **`@basithambat/open-icons/react`** → `Icon` component, `iconKeys`, `getIconMeta`, types `IconProps`, `IconMeta`, `IconName`.
 - **Icon set:** One canonical variant per icon (stroke 2, round join, not filled). Design size 24×24; use `size` to scale.
-- **Styling:** Icons render as inline SVG. Use `className` or `style` (e.g. `currentColor`) in the consuming app.
+- **Styling:** Icons render as inline SVG with `currentColor`; color is inherited from CSS.
 
 ---
 
 ## Summary for the agent
 
 - **Install from GitHub:** In the target app, run `npm install github:basithambat/open-icons` (or add `"@basithambat/open-icons": "github:basithambat/open-icons"` to `package.json` and run `npm install`). Ensure React is installed.
-- **Import:** `import { Icon } from '@basithambat/open-icons/react';`
-- **Use:** `<Icon name="icon-name" size={24} />` with any of the 1,080 icon names (e.g. `map-pin`, `github`, `send`).
-- **Names:** Prefer kebab-case. Full list: `iconKeys` from `@basithambat/open-icons`.
+- **Import:** `import { Icon } from '@basithambat/open-icons/react';` (use `type IconName` for strict icon names).
+- **Use:** `<Icon name="icon-name" size={24} />` with any of the 1,080 icon names (e.g. `map-pin`, `github`, `send`). Use `ref` when you need a reference to the SVG. Set `aria-label` for meaningful icons.
+- **Names:** Prefer kebab-case. Full list: `iconKeys` from `@basithambat/open-icons`. Type `IconName` gives autocomplete.
 
 Do not modify the Open Icons package itself unless the user asks to change the icon set or the package API.
