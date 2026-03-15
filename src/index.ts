@@ -7,4 +7,4 @@ export {
   type IconMeta,
 } from './icon-registry';
 
-export { svgContent } from './icons-svg.generated';
+export { svgContent, type IconName } from './icons-svg.generated';

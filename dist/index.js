@@ -5,7 +5,7 @@ import {
   iconKeys,
   iconRegistry,
   svgContent
-} from "./chunk-MF3HF4HI.js";
+} from "./chunk-J37QPDAO.js";
 export {
   categories,
   getIconMeta,

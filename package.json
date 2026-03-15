@@ -29,19 +29,30 @@
   ],
   "scripts": {
     "build": "tsup",
+    "postbuild": "node scripts/smoke-check.mjs",
+    "lint": "eslint src --max-warnings 0",
+    "lint:fix": "eslint src --fix",
     "export-svgs": "node scripts/export-svgs-from-figma.js && node scripts/generate-svg-registry.js",
     "fetch-from-figma-desktop": "node scripts/fetch-from-figma-desktop.js",
     "generate-svg-registry": "node scripts/generate-svg-registry.js",
-    "extract": "node scripts/extract-figma-icons.js figma-metadata"
+    "optimize-svgs": "svgo -f svg --multipass",
+    "extract": "node scripts/extract-figma-icons.js figma-metadata",
+    "smoke-check": "node scripts/smoke-check.mjs"
   },
   "peerDependencies": {
     "react": ">=17.0.0"
   },
   "devDependencies": {
+    "@eslint/js": "^9.0.0",
+    "@types/node": "^20.0.0",
     "@types/react": "^18.2.0",
+    "eslint": "^9.0.0",
+    "eslint-plugin-react": "^7.37.0",
     "react": "^18.2.0",
+    "svgo": "^3.0.0",
     "tsup": "^8.0.0",
-    "typescript": "^5.0.0"
+    "typescript": "^5.0.0",
+    "typescript-eslint": "^8.0.0"
   },
   "keywords": [
     "icons",

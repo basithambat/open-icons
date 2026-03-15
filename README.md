@@ -64,8 +64,18 @@ console.log(categories);  // ['Location', 'Communication', ...]
 
 ## Exports
 
-- **`@basithambat/open-icons`** – Registry (icon keys, categories, Figma node IDs) and `svgContent`.
-- **`@basithambat/open-icons/react`** – `<Icon name="…" size={24} />` and helpers.
+- **`@basithambat/open-icons`** – Registry (`iconKeys`, `categories`, `getIconMeta`, `svgContent`, type `IconName`).
+- **`@basithambat/open-icons/react`** – `<Icon name="…" size={24} />`, `iconKeys`, `getIconMeta`, types `IconProps`, `IconName`, `IconMeta`.
+
+## Quality (Lucide-style)
+
+- **Typed icon names** – `IconName` gives autocomplete and type-checking for the `name` prop.
+- **currentColor** – SVGs use `currentColor` so icons inherit text color (e.g. `className="text-blue-500"`).
+- **Accessibility** – Decorative icons get `aria-hidden`. Use `aria-label` when the icon has meaning.
+- **Optional SVGO** – Run `npm run optimize-svgs` before `generate-svg-registry` to shrink SVG size.
+- **Ref forwarding** – `<Icon ref={...} />` forwards to the underlying SVG for focus/measurement.
+- **Dev warning** – In development, missing icon names log a console warning.
+- **Smoke check** – `npm run smoke-check` (or after build) verifies registry and bundle.
 
 ## Getting the SVGs (required for rendering)
 
@@ -102,8 +112,12 @@ This uses the Figma API to export each canonical icon as SVG into `svg/`, then r
 |--------|-------------|
 | `npm run extract` | Parse `figma-metadata/*.txt` → `icons-manifest.json`, `canonical-icons.json` (and copy to `src/`). |
 | `npm run export-svgs` | Fetch SVGs from Figma API into `svg/` and run `generate-svg-registry`. |
-| `npm run generate-svg-registry` | Turn `svg/*.svg` into `src/icons-svg.generated.ts`. |
-| `npm run build` | Build the package (`dist/`). |
+| `npm run generate-svg-registry` | Turn `svg/*.svg` into `src/icons-svg.generated.ts` (with `currentColor` and `IconName` type). |
+| `npm run optimize-svgs` | Run SVGO on `svg/` to reduce file size (optional; run before `generate-svg-registry`). |
+| `npm run build` | Build the package (`dist/`). Runs `smoke-check` after build. |
+| `npm run lint` | Run ESLint on `src/`. |
+| `npm run lint:fix` | Run ESLint with `--fix`. |
+| `npm run smoke-check` | Verify registry and build (icon count, getIconMeta, svgContent). |
 
 ## Structure (Figma)
 
